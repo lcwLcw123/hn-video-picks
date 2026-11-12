@@ -1,10 +1,10 @@
 {
- "comments": 201743,
- "mentions": 213619,
- "videos": 142857,
- "rec_mentions": 19397,
- "candidates": 1745,
- "built_at": 1794449203,
+ "comments": 280028,
+ "mentions": 293572,
+ "videos": 189582,
+ "rec_mentions": 25730,
+ "candidates": 2384,
+ "built_at": 1794450004,
  "eval": {
   "n": 150,
   "precision": 0.644,
@@ -38,7 +38,8 @@
   },
   "n_total_labeled": 300
  },
- "listed": 1745,
- "listed_available": 276,
- "exported_at": 1794449702
+ "listed": 2384,
+ "listed_available": 2256,
+ "exported_at": 1794451302,
+ "repo": "lcwLcw123/hn-video-picks"
 }

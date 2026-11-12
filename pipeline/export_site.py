@@ -17,8 +17,16 @@ NON_KNOWLEDGE = {"Music", "Comedy", "Gaming", "Pets & Animals"}
 KNOWLEDGE_TITLE = re.compile(r"\b(talk|lecture|keynote|conference|documentary|explained|explain|how|why|history|interview|course|lesson|introduction|intro|science|theory|engineering|programming|math|physics|tutorial|seminar|panel|debate|demo)\b", re.I)
 
 
+MUSIC_HINT = re.compile(r"official (music )?video|\(official|lyrics?\b|\bfeat\.|\bft\.|remix|full album|music video|\(audio\)|official audio|\blive at\b|\bcover\)|\bunplugged\b|\bconcerto\b|\bsymphony\b|\bsonata\b|trailer\b|\bfunny\b|\bprank|\bmeme\b", re.I)
+MUSIC_CHANNEL = re.compile(r"vevo$| - topic$|records$|\bmusic$", re.I)
+
+
 def kind_of(meta):
     cat = meta.get("category")
+    if not cat:  # no watch-page data: fall back to title/channel heuristics
+        if MUSIC_HINT.search(meta.get("title") or "") or MUSIC_CHANNEL.search(meta.get("channel") or ""):
+            return "other"
+        return "knowledge"
     if cat in NON_KNOWLEDGE:
         return "other"
     if cat == "Entertainment" and not KNOWLEDGE_TITLE.search(meta.get("title") or ""):

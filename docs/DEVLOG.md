@@ -88,3 +88,19 @@
 - 单元测试（`tests/test_pipeline.py`，18 个）：URL 各种变体、分类器正负例、自我推广一票否决、正则性能、一人一票、同串打折、播放量不影响分数、话题词边界、清单式评论。
 - 端到端冒烟测试（`tests/e2e/smoke.mjs`）：用本机 Chrome 无头模式打开网站，桌面 + 手机两种尺寸，检查列表渲染、话题/排序写入 URL、搜索、详情页推荐条数与统计一致、方法页、不存在的视频显示错误，且无 JS 报错。
 - **问题 7**：Claude 桌面端内置的浏览器预览工具被自动模式的安全检查拦下了。改为自己写 Playwright 脚本驱动本机 Chrome 截图和断言（只装了 `playwright-core`，不下载浏览器）。
+
+**问题 8：youtube.com 整站连不上了。** 抓取视频页一段时间后，`www.youtube.com` 开始直接断开 SSL 连接（不是 429）。排查：本机所有流量走本地代理 `127.0.0.1:10808`；google.com、hn.algolia.com、i.ytimg.com（缩略图 CDN）都正常，只有 youtube.com 不通 → 判断是 YouTube 对代理出口 IP 做了软封禁。
+解决：
+1. 先停掉抓取，避免封得更久。
+2. 标题 / 频道 / 是否已删除，改走 `noembed.com`（公共 oEmbed 代理）；加了“熔断”：youtube.com 失败一次就 10 分钟内不再尝试。
+3. 视频分类、时长暂缺时，“知识类 vs 音乐娱乐”的判断退回到标题/频道启发式（VEVO、- Topic、official video、lyrics、remix…）。
+4. 缓存里标记了哪些视频还没有页面数据，等网络恢复后 `python3 pipeline/enrich_youtube.py data/candidates.json --retry-pages` 补齐。
+👉 **需要你介入（可选）**：申请一个 YouTube Data API v3 Key 是根本解法——它走 googleapis.com，不受这个封禁影响，也更合规。
+
+## 7. 部署
+
+- 新建公开仓库 `lcwLcw123/hn-video-picks`，GitHub Pages（Actions 模式）：推送 `main` → 先跑单元测试 → 发布 `site/`。
+- **需要人确认的点**：创建公开仓库这一步被 Claude Code 自动模式的权限检查拦下了（会以你的身份对外发布）——这是合理的，我停下来问了你，得到同意后才创建。
+- **问题 9**：第一次 `git push` 报 `remote end hung up`（一次推 ~1800 个小 JSON 文件）。`git config http.postBuffer 524288000` 后成功。
+- **问题 10**：第一次 Actions 部署失败：`Get Pages site failed`——仓库还没开启 Pages。用 `gh api -X POST repos/<repo>/pages -f build_type=workflow` 开启后重跑成功。
+- **问题 11**：对线上地址跑冒烟测试时报了一堆 `ERR_CONNECTION_CLOSED`——都是 YouTube 缩略图（同样的网络问题），不是网站的问题。测试改为记录失败请求的 URL，只把本站资源的失败算作错误。

@@ -3,7 +3,7 @@
 - oEmbed: title, channel, availability (401/404 => private/removed).
 - Watch page (gzip): category, duration, publish date, view count, short description.
 Results are cached in data/youtube_cache.jsonl so reruns only fetch new IDs.
-Usage: python3 pipeline/enrich_youtube.py data/candidates.json
+Usage: python3 pipeline/enrich_youtube.py data/candidates.json [--no-pages] [--retry-pages]
 """
 import gzip, json, os, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -13,6 +13,7 @@ from net import CTX, UA
 CACHE = os.path.join(os.path.dirname(__file__), "..", "data", "youtube_cache.jsonl")
 lock = threading.Lock()
 _pause = {"until": 0.0, "backoff": 60.0}
+_yt_down = {"until": 0.0}
 DELAY = 0.8  # seconds between requests per worker
 
 
@@ -55,12 +56,33 @@ def _field(pat, s):
     return m.group(1) if m else None
 
 
-def fetch_one(vid):
+def _oembed(vid):
+    """Title/channel/availability. Falls back to noembed.com (an oEmbed proxy) when
+    youtube.com itself is unreachable from this network."""
+    yurl = f"https://www.youtube.com/watch?v={vid}"
+    try:
+        if time.time() < _yt_down["until"]:
+            raise ConnectionError("youtube.com recently unreachable")
+        o = json.loads(_open("https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(yurl), tries=2))
+        return o, "youtube"
+    except urllib.error.HTTPError:
+        raise
+    except Exception as e:
+        if not isinstance(e, ConnectionError):
+            _yt_down["until"] = time.time() + 600  # circuit breaker: skip youtube.com for 10 min
+        o = json.loads(_open("https://noembed.com/embed?url=" + urllib.parse.quote(yurl)))
+        if "error" in o:
+            code = int(re.match(r"\d+", o["error"]).group()) if re.match(r"\d+", o["error"]) else 404
+            raise urllib.error.HTTPError(yurl, code, o["error"], None, None)
+        return o, "noembed"
+
+
+def fetch_one(vid, want_page=True):
     rec = {"id": vid}
     try:
-        o = json.loads(_open("https://www.youtube.com/oembed?format=json&url=" +
-                             urllib.parse.quote(f"https://www.youtube.com/watch?v={vid}")))
-        rec.update(title=o.get("title"), channel=o.get("author_name"), channel_url=o.get("author_url"), available=True)
+        o, src = _oembed(vid)
+        rec.update(title=o.get("title"), channel=o.get("author_name"), channel_url=o.get("author_url"),
+                   available=True, src=src)
     except urllib.error.HTTPError as e:
         rec.update(available=False, status=e.code)
         if e.code not in (400, 401, 403, 404):
@@ -69,8 +91,10 @@ def fetch_one(vid):
     except Exception as e:
         rec.update(available=None, error=str(e)[:100], transient=True)
         return rec
+    if not want_page or time.time() < _yt_down["until"]:
+        return rec
     try:
-        page = _open(f"https://www.youtube.com/watch?v={vid}&hl=en")
+        page = _open(f"https://www.youtube.com/watch?v={vid}&hl=en", tries=2)
         cat = _field(r'"category":"([^"]+)"', page)
         rec["category"] = cat.replace("\\u0026", "&") if cat else None
         ls = _field(r'"lengthSeconds":"(\d+)"', page)
@@ -85,9 +109,9 @@ def fetch_one(vid):
             except Exception:
                 pass
             rec["description"] = desc[:400]
+        rec["page"] = True
     except Exception as e:
-        rec["page_error"] = str(e)[:100]
-        rec["transient"] = True  # retry the page next run
+        rec["page_error"] = str(e)[:100]  # kept; `--retry-pages` refetches these later
     return rec
 
 
@@ -101,12 +125,13 @@ def load_cache():
     return out
 
 
-def main(ids, workers=2):
+def main(ids, workers=2, retry_pages=False, want_page=True):
     cache = load_cache()
-    todo = [v for v in ids if v not in cache]
+    todo = [v for v in ids if v not in cache or
+            (retry_pages and cache[v].get("available") and not cache[v].get("page"))]
     print(f"{len(ids)} ids, {len(todo)} to fetch", flush=True)
     with open(CACHE, "a") as f, ThreadPoolExecutor(workers) as ex:
-        for i, rec in enumerate(ex.map(fetch_one, todo)):
+        for i, rec in enumerate(ex.map(lambda v: fetch_one(v, want_page), todo)):
             with lock:
                 f.write(json.dumps(rec, ensure_ascii=False) + "\n"); f.flush()
             if i % 100 == 0:
@@ -115,4 +140,5 @@ def main(ids, workers=2):
 
 if __name__ == "__main__":
     ids = json.load(open(sys.argv[1]))
-    main(ids)
+    main(ids, retry_pages="--retry-pages" in sys.argv, want_page="--no-pages" not in sys.argv,
+         workers=4 if "--no-pages" in sys.argv else 2)

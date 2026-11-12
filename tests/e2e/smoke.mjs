@@ -12,7 +12,9 @@ const errors = [];
 for (const vp of [{ name: "desktop", width: 1280, height: 900 }, { name: "mobile", width: 390, height: 844 }]) {
   const page = await browser.newPage({ viewport: vp });
   page.on("pageerror", (e) => errors.push(e.message));
-  page.on("console", (m) => m.type() === "error" && !/i\.ytimg|youtube/.test(m.text()) && errors.push(m.text()));
+  // third-party thumbnails/embeds may be blocked on some networks; only first-party failures count
+  page.on("requestfailed", (r) => !/ytimg\.com|youtube/.test(r.url()) && errors.push("requestfailed " + r.url()));
+  page.on("response", (r) => r.status() >= 400 && !/ytimg\.com|youtube|\/v\/zzzzzzzzzzz/.test(r.url()) && errors.push(`${r.status()} ${r.url()}`));
   await page.goto(base, { waitUntil: "networkidle" });
   const n = await page.locator(".card").count();
   if (n < 10) fail(`${vp.name}: only ${n} cards`);
@@ -37,9 +39,8 @@ for (const vp of [{ name: "desktop", width: 1280, height: 900 }, { name: "mobile
     await page.goto(base + "#/about", { waitUntil: "networkidle" });
     if (!(await page.locator(".about h1").count())) fail("about page");
     await page.screenshot({ path: `${out}/about.png`, fullPage: true });
-    page.removeAllListeners("console"); // the next step 404s on purpose
-    await page.goto(base + "#/v/zzzzzzzzzzz", { waitUntil: "networkidle" });
-    if (!(await page.locator(".err").count())) fail("missing video should show error");
+    await page.goto(base + "#/v/zzzzzzzzzzz"); // 404s on purpose
+    try { await page.waitForSelector(".err", { timeout: 8000 }); } catch { fail("missing video should show error"); }
   }
   await page.close();
 }
