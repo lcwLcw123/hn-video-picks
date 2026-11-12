@@ -248,7 +248,7 @@ async function renderDetail(id) {
           <span>${new Date(r.t * 1000).toISOString().slice(0, 10)}</span>
           <span class="in">在「<a href="${hnItem(r.st)}" target="_blank" rel="noopener">${esc(r.stt || "讨论")}</a>」中</span></div>
         <blockquote><p>${quoteHtml(r.x)}</p></blockquote>
-        <div class="cues">${r.cues.filter((c) => c !== "知识型内容").map((c) => `<span>${esc(c)}</span>`).join("")}</div>
+        <div class="cues">${r.cues.filter((c) => c !== "知识型内容").map((c) => `<span>${esc(c)}</span>`).join("")}${r.ai ? `<span class="ai" title="规则没把握，由 Claude 复判为推荐">AI 复判 · ${r.ai.label === "strong" ? "明确推荐" : "温和推荐"}：${esc(r.ai.reason)}</span>` : ""}</div>
       </li>`).join("")}
     </ol>
   </section>
@@ -297,6 +297,16 @@ function renderAbout() {
       也就是说规则会漏掉不少语气平淡的推荐，例如 “here's a video about it”。</li>
       <li>这是一个取舍：一个视频要上榜，需要多人独立推荐，漏掉一些不影响“被反复推荐”的视频浮上来；但如果把“只是贴链接”误算成推荐，排名就会被热门新闻片段、梗视频污染。所以我们优先保证精确率。</li>
     </ul>`;
+  })() : ""}
+
+  ${m.llm_eval ? (() => {
+    const t = m.llm_eval.test;
+    return `<h3>AI 复判：把漏掉的温和推荐找回来</h3>
+    <p>规则打分接近阈值、但没过线的评论（共 ${(m.llm_judged || 0).toLocaleString()} 条，只看至少被 2 个人提到过的视频），交给 Claude（${esc(m.llm_eval.model)}）按同一套标准再判一次。
+    由此新增 <b>${(m.llm_added || 0).toLocaleString()}</b> 条推荐，详情页里带 <span class="ai">AI 复判</span> 标记并附理由。</p>
+    <p>在同一份盲标测试集（${t.n} 条）上：规则单独的精确率 ${pct(t.rules_precision)}、样本内召回 ${pct(t.rules_recall_in_sample)}；
+    规则 + AI 复判后精确率 ${pct(t.combined_precision)}、样本内召回 <b>${pct(t.combined_recall_in_sample)}</b>。
+    AI 单独与人工标注的三分类一致率 ${pct(t.exact_agreement)}。</p>`;
   })() : ""}
 
   <h2>3. 排序：数人，不数评论</h2>

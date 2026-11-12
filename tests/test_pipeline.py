@@ -177,3 +177,28 @@ class KindTests(unittest.TestCase):
         recs = [{"pos": ["讲得清楚"]}, {"pos": ["知识型内容"]}, {"pos": []}]
         self.assertEqual(kind_of({"category": "Entertainment", "title": "Golden Balls"}, recs), "knowledge")
         self.assertEqual(kind_of({"category": "Education", "title": "anything"}), "knowledge")
+
+
+class LlmMergeTests(unittest.TestCase):
+    H = {"objectID": "77", "author": "z", "created_at_i": 1500000000, "story_id": 5, "story_title": "Grid design",
+         "story_url": None, "comment_text": "Jen Simmons made a video about exactly this https://youtu.be/aaaaaaaaaaa"}
+
+    def tearDown(self):
+        build_dataset.LLM.clear()
+
+    def test_llm_upgrades_borderline_to_recommendation(self):
+        self.assertFalse(build_dataset.mentions_from_comment(self.H)[0]["rec"])
+        build_dataset.LLM[("77", "aaaaaaaaaaa")] = {"label": "weak", "reason": "作为学习资源推荐"}
+        m = build_dataset.mentions_from_comment(self.H)[0]
+        self.assertTrue(m["rec"])
+        self.assertAlmostEqual(m["p"], 0.6)
+        self.assertEqual(m["llm"]["label"], "weak")
+
+    def test_llm_no_keeps_rule_decision(self):
+        build_dataset.LLM[("77", "aaaaaaaaaaa")] = {"label": "no", "reason": "只是出处"}
+        self.assertFalse(build_dataset.mentions_from_comment(self.H)[0]["rec"])
+
+    def test_llm_never_overrides_self_promo(self):
+        h = dict(self.H, comment_text="I made a video about this https://youtu.be/aaaaaaaaaaa")
+        build_dataset.LLM[("77", "aaaaaaaaaaa")] = {"label": "strong", "reason": "x"}
+        self.assertFalse(build_dataset.mentions_from_comment(h)[0]["rec"])

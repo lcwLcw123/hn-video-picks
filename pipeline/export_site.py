@@ -101,7 +101,7 @@ def main():
         detail["desc"] = meta.get("description")
         detail["recs"] = [{"id": m["cid"], "u": m["author"], "t": m["t"], "st": m["story_id"],
                            "stt": m["story_title"], "x": m["quote"], "p": m["p"], "cues": m["pos"],
-                           "tp": m["topics"]} for m in sorted(quotes, key=lambda m: m["t"])]
+                           "tp": m["topics"], "ai": m.get("llm")} for m in sorted(quotes, key=lambda m: m["t"])]
         detail["cites"] = [{"id": m["cid"], "u": m["author"], "t": m["t"], "stt": m["story_title"],
                             "x": best_sentence(m["quote"], 200), "neg": m["neg"]}
                            for m in ms if not m["rec"]][:40]
@@ -111,6 +111,8 @@ def main():
     summary = json.load(open(os.path.join(DATA, "build_summary.json")))
     ev_path = os.path.join(DATA, "eval", "report.json")
     summary["eval"] = json.load(open(ev_path)) if os.path.exists(ev_path) else None
+    llm_ev = os.path.join(DATA, "llm", "eval_report.json")
+    summary["llm_eval"] = json.load(open(llm_ev)) if os.path.exists(llm_ev) else None
     summary["listed"] = len(index)
     summary["listed_available"] = sum(i["a"] for i in index)
     summary["exported_at"] = int(time.time())
