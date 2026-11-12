@@ -4,6 +4,8 @@
 - Watch page (gzip): category, duration, publish date, view count, short description.
 Results are cached in data/youtube_cache.jsonl so reruns only fetch new IDs.
 Usage: python3 pipeline/enrich_youtube.py data/candidates.json [--no-pages] [--retry-pages]
+       YOUTUBE_API_KEY=... python3 pipeline/enrich_youtube.py data/candidates.json [--refresh-all]
+         (preferred: official Data API, ~48 requests for 2,400 videos)
 """
 import gzip, json, os, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -115,6 +117,61 @@ def fetch_one(vid, want_page=True):
     return rec
 
 
+# Standard YouTube category IDs (videoCategories.list, regionCode=US)
+CATEGORIES = {"1": "Film & Animation", "2": "Autos & Vehicles", "10": "Music", "15": "Pets & Animals",
+              "17": "Sports", "19": "Travel & Events", "20": "Gaming", "22": "People & Blogs", "23": "Comedy",
+              "24": "Entertainment", "25": "News & Politics", "26": "Howto & Style", "27": "Education",
+              "28": "Science & Technology", "29": "Nonprofits & Activism"}
+
+
+def iso_duration(s):
+    """'PT1H2M3S' -> 3723 seconds."""
+    m = re.fullmatch(r"P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", s or "")
+    if not m:
+        return None
+    d, h, mi, se = (int(x or 0) for x in m.groups())
+    return d * 86400 + h * 3600 + mi * 60 + se
+
+
+def api_record(item):
+    """One item of videos.list (part=snippet,contentDetails,statistics,status) -> cache record."""
+    sn, cd, st = item.get("snippet", {}), item.get("contentDetails", {}), item.get("statistics", {})
+    status = item.get("status", {})
+    return {
+        "id": item["id"], "title": sn.get("title"), "channel": sn.get("channelTitle"),
+        "channel_url": f"https://www.youtube.com/channel/{sn['channelId']}" if sn.get("channelId") else None,
+        "available": status.get("privacyStatus", "public") != "private", "src": "api",
+        "category": CATEGORIES.get(sn.get("categoryId"), sn.get("categoryId")),
+        "duration": iso_duration(cd.get("duration")), "published": (sn.get("publishedAt") or "")[:10] or None,
+        "views": int(st["viewCount"]) if st.get("viewCount") else None,
+        "description": (sn.get("description") or "")[:400], "page": True,
+    }
+
+
+def main_api(ids, key, refresh_all=False):
+    """YouTube Data API v3: 50 videos per request, 1 quota unit each (free quota: 10,000/day).
+    Videos missing from the response are deleted/private -> available=False."""
+    cache = load_cache()
+    todo = [v for v in ids if refresh_all or v not in cache or not cache[v].get("page")]
+    print(f"{len(ids)} ids, {len(todo)} to fetch via API ({(len(todo) + 49) // 50} requests)", flush=True)
+    with open(CACHE, "a") as f:
+        for i in range(0, len(todo), 50):
+            batch = todo[i:i + 50]
+            url = ("https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails,statistics,status"
+                   f"&maxResults=50&id={','.join(batch)}&key={urllib.parse.quote(key)}")
+            try:
+                data = json.loads(_open_once(url))
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", "replace")[:300]
+                sys.exit(f"YouTube API error {e.code}: {body}")
+            found = {it["id"]: api_record(it) for it in data.get("items", [])}
+            for vid in batch:
+                rec = found.get(vid) or {"id": vid, "available": False, "status": 404, "src": "api"}
+                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            f.flush()
+            print(f"  {i + len(batch)}/{len(todo)}", flush=True)
+
+
 def load_cache():
     out = {}
     if os.path.exists(CACHE):
@@ -140,5 +197,9 @@ def main(ids, workers=2, retry_pages=False, want_page=True):
 
 if __name__ == "__main__":
     ids = json.load(open(sys.argv[1]))
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if key:
+        main_api(ids, key, refresh_all="--refresh-all" in sys.argv)
+        sys.exit(0)
     main(ids, retry_pages="--retry-pages" in sys.argv, want_page="--no-pages" not in sys.argv,
          workers=4 if "--no-pages" in sys.argv else 2)

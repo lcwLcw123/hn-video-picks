@@ -134,3 +134,35 @@ class BuildTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class YouTubeApiTests(unittest.TestCase):
+    def test_iso_duration(self):
+        import enrich_youtube as e
+        self.assertEqual(e.iso_duration("PT1H2M3S"), 3723)
+        self.assertEqual(e.iso_duration("PT47M"), 2820)
+        self.assertEqual(e.iso_duration("P1DT1S"), 86401)
+        self.assertIsNone(e.iso_duration("garbage"))
+
+    def test_api_batch_marks_missing_as_unavailable(self):
+        import enrich_youtube as e, json, tempfile
+        item = {"id": "_ahvzDzKdB0", "snippet": {"title": "Growing a Language", "channelTitle": "Bill Pugh",
+                "channelId": "UC1", "categoryId": "28", "publishedAt": "2012-07-15T21:24:46Z"},
+                "contentDetails": {"duration": "PT53M31S"}, "statistics": {"viewCount": "165057"},
+                "status": {"privacyStatus": "public"}}
+        calls = []
+        orig_open, orig_cache = e._open_once, e.CACHE
+        e._open_once = lambda url: calls.append(url) or json.dumps({"items": [item]})
+        with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False) as tf:
+            e.CACHE = tf.name
+        try:
+            e.main_api(["_ahvzDzKdB0", "zzzzzzzzzzz"], "k")
+            cache = e.load_cache()
+        finally:
+            e._open_once, e.CACHE = orig_open, orig_cache
+            os.unlink(tf.name)
+        self.assertEqual(len(calls), 1)
+        self.assertIn("id=_ahvzDzKdB0,zzzzzzzzzzz", calls[0])
+        self.assertEqual(cache["_ahvzDzKdB0"]["category"], "Science & Technology")
+        self.assertEqual(cache["_ahvzDzKdB0"]["duration"], 3211)
+        self.assertFalse(cache["zzzzzzzzzzz"]["available"])

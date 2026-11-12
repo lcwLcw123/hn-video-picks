@@ -29,7 +29,7 @@ docs/DEVLOG.md       开发日志：决策、问题、解决办法
 ```bash
 python3 pipeline/crawl_hn.py youtube.com youtu.be   # 首次约 30–40 分钟；之后增量
 python3 pipeline/build_dataset.py
-python3 pipeline/enrich_youtube.py data/candidates.json
+python3 pipeline/enrich_youtube.py data/candidates.json   # 有 YOUTUBE_API_KEY 时走官方 API（推荐）
 python3 pipeline/evaluate.py test --save
 python3 pipeline/export_site.py
 python3 -m unittest discover tests
@@ -38,3 +38,14 @@ python3 -m unittest discover tests
 本地预览：`python3 -m http.server -d site 8000`，打开 http://localhost:8000 。
 
 推送到 `main` 后，GitHub Actions 会先跑测试，再把 `site/` 发布到 GitHub Pages。
+
+## YouTube Data API Key（推荐）
+
+没有 Key 时会抓 YouTube 网页 / noembed，容易被限流。有 Key 时：
+
+```bash
+export YOUTUBE_API_KEY=你的key
+python3 pipeline/enrich_youtube.py data/candidates.json && python3 pipeline/export_site.py
+```
+
+约 2,400 个视频只需 ~48 次请求（每次 50 个，每次 1 配额单位；免费额度每天 10,000）。Key 只从环境变量读取，不写入仓库。
