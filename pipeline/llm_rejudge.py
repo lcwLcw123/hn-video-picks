@@ -8,6 +8,7 @@ Usage (needs ANTHROPIC_API_KEY in the environment; the key is never written to d
   python3 pipeline/llm_rejudge.py eval          # 300 blind-labeled comments -> agreement report
   python3 pipeline/llm_rejudge.py borderline    # ~5,900 borderline comments -> data/llm/judgments.jsonl
   python3 pipeline/llm_rejudge.py borderline --dry-run   # show count + cost estimate only
+  python3 pipeline/llm_rejudge.py merge         # use judgments written by Claude Code subagents instead
 A submitted batch id is saved, so re-running after an interruption resumes polling instead of resubmitting.
 """
 import gzip, json, os, sys, time
@@ -184,6 +185,47 @@ def report_eval(result_path):
     print("note: 'recall_in_sample' is within the stratified sample (borderline-heavy), not population recall.")
 
 
+def merge_subagents(label="subagent:claude-sonnet"):
+    """Alternative to the API batch: judgments written by Claude Code subagents into
+    data/llm/chunks/out_*.jsonl (same criteria, see SYSTEM). Converts them to the files
+    build_dataset.py and report_eval() read."""
+    global MODEL
+    MODEL = label
+    cdir = os.path.join(OUT, "chunks")
+    keys = json.load(open(os.path.join(cdir, "keys.json")))
+    seen, bad = set(), 0
+    with open(os.path.join(OUT, "results_borderline.jsonl"), "w") as f:
+        for name in sorted(os.listdir(cdir)):
+            if not (name.startswith("out_") and name.endswith(".jsonl")) or name == "out_eval.jsonl":
+                continue
+            for line in open(os.path.join(cdir, name)):
+                try:
+                    r = json.loads(line)
+                except ValueError:
+                    bad += 1; continue
+                k = r.get("key")
+                if k not in keys or k in seen or r.get("label") not in ("strong", "weak", "no"):
+                    bad += 1; continue
+                seen.add(k)
+                f.write(json.dumps(dict(key=k, **keys[k], label=r["label"], reason=str(r.get("reason", ""))[:60], model=label),
+                                   ensure_ascii=False) + "\n")
+    print(f"borderline: {len(seen)}/{len(keys)} judged, {bad} malformed/duplicate lines skipped")
+    ev_in = os.path.join(cdir, "out_eval.jsonl")
+    if os.path.exists(ev_in):
+        ev_out = os.path.join(OUT, "results_eval.jsonl")
+        n = 0
+        with open(ev_out, "w") as f:
+            for line in open(ev_in):
+                try:
+                    r = json.loads(line)
+                    i = int(r["key"].split("-")[1])
+                except (ValueError, KeyError, IndexError):
+                    continue
+                f.write(json.dumps({"i": i, "label": r["label"], "reason": r.get("reason", "")}, ensure_ascii=False) + "\n"); n += 1
+        print(f"eval: {n} judged")
+        report_eval(ev_out)
+
+
 if __name__ == "__main__":
     what = sys.argv[1] if len(sys.argv) > 1 else ""
     dry = "--dry-run" in sys.argv
@@ -191,6 +233,8 @@ if __name__ == "__main__":
         path = run("eval", items_eval(), dry)
         if path:
             report_eval(path)
+    elif what == "merge":
+        merge_subagents()
     elif what == "borderline":
         run("borderline", items_borderline(), dry)
     else:

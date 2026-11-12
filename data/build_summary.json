@@ -2,7 +2,9 @@
  "comments": 280028,
  "mentions": 293572,
  "videos": 189582,
- "rec_mentions": 25730,
- "candidates": 2384,
- "built_at": 1794450004
+ "rec_mentions": 27597,
+ "llm_judged": 2520,
+ "llm_added": 1867,
+ "candidates": 3003,
+ "built_at": 1794454699
 }

@@ -107,5 +107,5 @@ code{background:var(--accent-soft);padding:0 4px;border-radius:3px;font-size:.9e
   .controls{position:static}
   .why{margin-left:0}
 }
-.ai{font-size:11.5px;background:#e6ecf5;color:#28456e;border-radius:3px;padding:0 6px}
+.ai,.cues .ai{font-size:11.5px;background:#e6ecf5;color:#28456e;border-radius:3px;padding:0 6px}
 .about h3{font:600 18px var(--serif);margin-top:22px}

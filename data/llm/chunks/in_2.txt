@@ -1,0 +1,2787 @@
+### 44675786-IRTfhkiAqPw
+Thread: Python classes aren’t always the best solution (comment links 2 YouTube videos)
+Excerpt:
+Followed by "Object-Oriented Programming is Embarrassing: 4 Short Examples".
+
+ [link]
+
+### 16882126-IKVFZ28ybQs
+Thread: StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer (comment links 3 YouTube videos)
+Excerpt:
+[link] 
+
+ [link]
+
+### 16880941-IKVFZ28ybQs
+Thread: StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer
+Excerpt:
+Check this out. 100 zerglings vs 20 siege tanks - [link]
+
+### 11626595-wvhW8cp15tk
+Thread: Reddit and Facebook Veteran on How to Troubleshoot Troublemakers (comment links 2 YouTube videos)
+Excerpt:
+He obviously received input from a huge number of people and couldn't have made Apple successful alone. He discusses how Apple recovered in the late 90s at D5 in 2007 [0]. The NeXT brainstorms are also interesting to watch [1]
+
+[0] [link]
+
+### 13158316-0nbkaYsR94c
+Thread: Ask HN: What is something you do for clients that consistently blows them away?
+Excerpt:
+I found this [1] video to be a great watch.
+
+[1] [link]
+
+### 20418313-0nbkaYsR94c
+Thread: I was wrong about spreadsheets (2017)
+Excerpt:
+I'd recommend watching this YouTube video; it's only one person's take on the right way to use Excel, but Excel has many ways to handle these issues:
+
+ [link]
+
+### 22507428-0nbkaYsR94c
+Thread: Ask HN: What industries are underserved by software?
+Excerpt:
+You can do basically anything in Excel. My favorite video on this topic is from Joel Spolsky.
+
+You Suck at Excel with Joel Spolsky: [link]
+
+### 36199292-0nbkaYsR94c
+Thread: An Excel error led Austria's SPÖ to announce the wrong candidate as the winner
+Excerpt:
+That's indeed one of the basic suggestions in Spolsky's "You Suck At Excel":
+
+ [link]
+
+### 24663776-0nbkaYsR94c
+Thread: Microsoft Excel’s 35th birthday
+Excerpt:
+One of the best Excel tips video I’ve seen is by Joel Spolsky - aptly named “You suck at Excel”. I’ve been an Excel user forever and this video taught me about features that I never knew existed.
+
+Have a look: [link]
+
+### 32356179-0nbkaYsR94c
+Thread: Excel never dies (2021)
+Excerpt:
+I was going to reply with this too. Joel Spolsky explains it well [link]
+
+### 14967445-BrK7X_XlGB8
+Thread: The Kolmogorov option
+Excerpt:
+Firstly, unless you are a practicing mathematician this is one of the most important mathematical video you will ever see:
+
+ [link]
+
+### 11269727-tN_CvGJKMOs
+Thread: Terra Bella
+Excerpt:
+The ESA has a really interesting segment on the space debris problem and possible solutions.
+
+ [link]
+
+### 23244827-N9wsjroVlu8
+Thread: A Google Cloud support engineer solves a tough DNS case
+Excerpt:
+Are you perhaps thinking of the printer execution scene from "Office Space"?
+
+ [link]
+
+### 15345424-pa5_tudyAF8
+Thread: Dyson to make electric cars from 2020 (comment links 2 YouTube videos)
+Excerpt:
+I can recommend this video: [link] "Tearing Down the Model T of Our Time - Autoline After Hours 284" and [link] "BMW i3 Factory Production Tour"
+
+### 38611409-pa5_tudyAF8
+Thread: Car Manufacturing Process Overview [video]
+Excerpt:
+Excellent video of the BMW i3 production line: [link] ?
+
+### 34862488-5uiroWBkdFY
+Thread: Setting up an electronics workshop
+Excerpt:
+owever, it didn't work very good. As said before, the main problem was that solder created shorts between pins, and some others were left with bad connections. I also tried to use braid to remove the excess solder, etc., but I felt the more I tried to fix it, the worse the result.
+
+I once watched this video about SMT soldering, and while the guy seems to be using just a soldering iron and flux, the result is outstanding. I don't know however which specific equipment and solder/flux he is using, and if it's real or there's some kind of trick involved :-D [link]
+
+### 12397152-SrU9YDoXE88
+Thread: Life on the Infinite Farm [pdf]
+Excerpt:
+My personal favourite to illustrate infinity (as possible) and some math concepts around it is still the video "How To Count Past Infinity" from Vsauce:
+
+ [link]
+
+### 17677038-SrU9YDoXE88
+Thread: How to explain infinity to kids
+Excerpt:
+(related - and I enjoyed the vibe he put into it): [link] - Vsauce's "How to Count Past Infinity"
+
+### 27847292-SrU9YDoXE88
+Thread: How many real numbers exist? New proof moves closer to an answer
+Excerpt:
+[link]
+
+### 11477625-ep2I3Gf3Sec
+Thread: USB power supply puts 220 Mains power out on USB jack
+Excerpt:
+I love the simplicity of and the humor in the Big Clive videos. The methylated spirits video was quite... hilarious. DO NOT try this! [link]
+
+### 38170211-QgNDao7m41M
+Thread: UHZ1: NASA telescopes discover record-breaking black hole
+Excerpt:
+I like this visualization of the staggering orders of magnitude: [link]
+
+### 21725053-0pDE4VX_9Kk
+Thread: John Berger’s ‘Ways of Seeing’ Exploded a Discipline
+Excerpt:
+This is a really great (and relatively short) program.
+
+Here’s a link to the first episode:
+ [link]
+
+### 38218990-A9UmdY0E8hU
+Thread: Swedish painters trade union to stop all work with Tesla brand cars
+Excerpt:
+Tesla may go to Germany, but Scandinavia and the Nordic countries are still very good places to create factories. Highly skilled labor is easy to come by, and the top earners make less than their colleagues in the US. These are only a few of the many reasons why it’s very easy to get (filthy) rich in the Nordic countries: [link]
+
+### 23312089-oFeoS41xe7w
+Thread: The Ghetto and the Mansion
+Excerpt:
+Nonetheless, it's interesting to watch old episodes of Firing Line on YouTube. Buckley doesn't generally come across as the smarter person, but the guests themselves are usually worth watching. The show is a calm, rational discussion between people with diametrically opposed worldviews. This seems almost unthinkable in the shouting match, tribalistic media we have today.
+
+ [link]
+
+### 14900507-VreG1iC65Lc
+Thread: Mercedes kills their only electric car
+Excerpt:
+> Except that the 10 million number does not matter if their entire system is set up to make exploding-fuel cars. The only thing common is the external shell and the dash electronics. The real expertise and resource is needed to make the rest of the stuff. And Tesla is ahead in that.
+
+It's all about logistics, infrastructure and capital. Have a look at this video: [link]
+
+### 31135510-jcKRGpMiVTw
+Thread: I stopped working on black hole information loss (comment links 2 YouTube videos)
+Excerpt:
+I agree that most videos in YouTube simplify the problem too much or are just wrong. My recommendations anyway:
+
+* Mathologer: "Ramanujan: Making sense of 1+2+3+... = -1/12 and Co." [link]
+
+### 12623864-cKxRvEZd3Mw
+Thread: Announcing YouTube-8M: A Large and Diverse Labeled Video Dataset for Research
+Excerpt:
+I'd say scikit-learn is a better way to get started with machine learning. Check this out, for example: [link]
+
+### 12504841-Ri0qiAita4s
+Thread: Leaked Apple emails reveal employees' complaints about toxic work environment
+Excerpt:
+I found Slavoj Zizek has a very interesting perspective on "racist jokes" as a bonding factor in _diverse_ communities [link] (approx. 10m)
+
+### 16839349-GqmsQeSzMdw
+Thread: Ask HN: What is your favourite tech talk?
+Excerpt:
+I find Runar Bjarnason's talks to be interesting; one of my favourites is 'Constraints Liberate, Liberties Constrain':
+
+ [link]
+
+### 40601304-GqmsQeSzMdw
+Thread: Compromised Visions Are Superior
+Excerpt:
+This reminds me of the excellent talk "Constraints Liberate, Liberties Constrain" [link] that is more about doing the programming rather than planning it as in the article, but with a similar approach.
+
+### 19177276-KGaFcI2UNrI
+Thread: Ask HN: Can too much “intellectual curiosity” cause psychological problems? (comment links 2 YouTube videos)
+Excerpt:
+If any of this has landed for you, we can swap sources and thoughts sometime, which might be a good therapy (both ways).
+
+[1]: [link] 
+[2]: [link] 
+[3]: [link]
+
+### 17037493-dK3zRXhrFZY
+Thread: Common Lisp homepage
+Excerpt:
+You might also want to have a look at Julia. It's not really a lisp, but it sits on top of a scheme - and it has a rather interesting, pragmatic type system:
+
+"Julia: to lisp or not to lisp?":
+ [link]
+
+### 29356222-dK3zRXhrFZY
+Thread: PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)
+Excerpt:
+for example, check out parts of the stdlib:
+ [link] 
+
+but in the end, julia really is a lisp:
+ [link]
+
+### 37817988-RMjtmsr3CqA
+Thread: What we learned making a plastic injection mold with a Chinese mold maker
+Excerpt:
+Engineerguy explains it pretty well: [link]
+
+### 12017430-OxhTQdcieQE
+Thread: Rails 5.0: Action Cable, API mode, and more
+Excerpt:
+> someone should dissect these things in a real-world-ish application to see what's actually true.
+
+Moz.com recently had fun with Elixir [1]. You may also have a look at [link] from latest RailsConf.
+
+### 15198605-oHf1vD5_b5I
+Thread: Evan Doorbell's Classic Phreaking Tapes (comment links 3 YouTube videos)
+Excerpt:
+This is a good related talk - goes outside the box on all the ways you can often get into commercial buildings without picking (or even in many cases, interacting with) the lock
+"The Search for the Perfect Door" by Deviant Ollam
+ [link] 
+
+Also good:
+ [link] [Howard Payne & Deviant Ollam - This Key is Your Key, This Key is My Key]
+ [link] [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse]
+
+### 30248735-oHf1vD5_b5I
+Thread: Ask HN: Inspiring hacker talks and presentations?
+Excerpt:
+My favorite is this one from DEFCON about hacking elevators: [link]
+
+### 11724241-O0kyDKu8K-k
+Thread: Surface-Only Liquids
+Excerpt:
+Rendering Synthetic Objects into Legacy Photographs [link] 
+
+Disney's Frozen A Material Point Method For Snow Simulation [link]
+
+### 47803822-f1dnocPQXDQ
+Thread: Reflections on 30 years of HPC programming
+Excerpt:
+"Crabs Trade Shells in the Strangest Way | BBC Earth"
+
+ [link]
+
+### 18074343-hB6eY73sLV0
+Thread: 'Super Mario Bros.' speedrunner hits nearly inhuman 4:55 world record
+Excerpt:
+super impressive stuff. I'm generally unfamiliar with speedrunning, but I am familiar with the billy mitchell controversies, so I'm surprised that people accept the legitimacy of streamed runs. wouldn't it be trivial-enough to fake?
+
+tangental: my personal favorite mario-related feat is sethbling injecting flappy bird into super mario world manually: [link]
+
+### 19780679-hB6eY73sLV0
+Thread: Indie Game Removed from Switch After Dev Reveals It Has a Hidden Code Editor
+Excerpt:
+My favorite example of this is the time it was used it to inject flappy bird.
+
+ [link]
+
+### 25252310-hB6eY73sLV0
+Thread: Flappy Bird in 228 bytes
+Excerpt:
+This reminds me of the incredible Flappy Birds SNES Code Injection into Super Mario World. A must-see video.
+
+ [link]
+
+### 40339989-hB6eY73sLV0
+Thread: Hackers discover how to reprogram NES Tetris from within the game
+Excerpt:
+Reminds me of how they programmed Flappy Bird inside Super Mario World using glitches. Crazy stuff.
+
+ [link]
+
+### 24458960-hB6eY73sLV0
+Thread: Super Mario Bros. 3 in 3 Minutes – World Record Speedrun Explained [video]
+Excerpt:
+Also be sure to check out the super Mario world flappy bird code injection:
+
+ [link]
+
+### 43234646-hB6eY73sLV0
+Thread: Speedrunners are vulnerability researchers, they just don't know it yet
+Excerpt:
+In the gaming world, undefined software behavior is critical to this sort of thing, we see this especially in some games like the legendary exploits found in the Ocarina of Time speedruns for example.
+
+I mean, in Super Mario World, SethBling did code injection to manually run a version of Flappy Bird (how ironic given the origin of the pipes!) in the game. By hand. No savestates. It took forever and the run through is really and truly fascinating: [link]
+
+### 11984347-w60sfReTsRA
+Thread: I Hear That Asteroids Machine Calling My Name
+Excerpt:
+I found a video with some really good close-ups of gameplay, and it looks like the sparkle effect may actually be caused by the bright bullets refracting through tiny scratches in the display, which is fascinating. I've queued up 3:12, and there's a specific shot around 3:16 where the concentric radial glow is very clear: [link]
+
+### 12036491-tzNj-hH8LkY
+Thread: Salim Ismail – Our democracy is about to collapse
+Excerpt:
+I'd also recommend this video, as it explains some of the reasons for Leave that I agree with...
+
+ [link]
+
+### 11972999-xMuUEd6w54E
+Thread: UK votes to leave EU
+Excerpt:
+You may think this is some form of conspiracy theory, but there's very strong evidence for it. I would recommend starting here...
+
+ [link]
+
+### 15875791-tVo_wkxH9dU
+Thread: How Vladimir Lenin Became a Mushroom
+Excerpt:
+[link] 
+
+ [link]
+
+### 18335561-YyIQKBzIuBY
+Thread: Soup – Alan Kay on Objects
+Excerpt:
+This is one of my favorite Alan Kay talks of all time (I think this is the right version, but at the time it wasn't on YouTube)...
+
+Programming and Scaling - Alan Kay
+ [link]
+
+### 12353755-knUitQQnpJo
+Thread: Practical Guide to PostgreSQL Optimizations
+Excerpt:
+I recommend following Christophe Pettus - PostgreSQL Proficiency for Python People - PyCon 2016 video for postgresql basics and optimization
+
+ [link]
+
+### 40497148-zp0OEDcAro0
+Thread: The Evolution of Lisp (1993) [pdf]
+Excerpt:
+[link] 
+
+ [link]
+
+### 25647700-d6c6uIyieoo
+Thread: How I learned to love and fear the Riemann Hypothesis
+Excerpt:
+This Numberphile video on the Riemann Hypothesis is also very good: [link]
+
+### 18103649-d6c6uIyieoo
+Thread: The Riemann Hypothesis, explained
+Excerpt:
+Youtube video on this subject that I found to be very interesting, even for a layman person like me: [link]
+
+### 12639628-Nq2HkAYbG5o
+Thread: Ask HN: What's your favorite tech talk?
+Excerpt:
+Aside from the typical, I watched Damian Conway "Standing on the shoulders of giants" from YAPC 2016 last week and found it interesting. Always fun to see a modern feature full language collide with history and algorithms.
+
+ [link]
+
+### 12106819-XFDM1ip5HdU
+Thread: Does 1+2+3+... Really Equal -1/12?
+Excerpt:
+I loved this video [link] "An exploration of infinite sums, from convergent to divergent, including a brief introduction to the 2-adic metric, all themed on that cycle between discovery and invention in math."
+
+### 14221876-DJtef410XaM
+Thread: The Clean Architecture (2012)
+Excerpt:
+For the Python programmers, there is also a better explanation of the same concept by Brandon Rhodes: The Clean Architecture in Python.
+
+ [link]
+
+### 12063556-xZTb6sfHEX8
+Thread: Has Physics Gotten Something Really Important Really Wrong?
+Excerpt:
+PBS Space Time has a set of short videos[1] that do a very good job of explaining dark {matter,energy}. It starts with Einstein's field equations and GR, then walks through what the Friedmann equations say about the expansion of the universe.
+
+[1] [link] (and the next few videos: [link] )
+
+### 12549806-ieMCKk_7Hs8
+Thread: Laser Scans Unveil a Network of Ancient Cities in Cambodia
+Excerpt:
+If you'd like to learn more about how the American bombing of Cambodia helped bring Pol Pot to power in a highly entertaining way, I'd recommend this section from Spalding Gray's monolog in Swimming to Cambodia.
+
+ [link]
+
+### 27024297-YEBfamv-_do
+Thread: Diffie-Hellman for the Layman
+Excerpt:
+Here is another video from "Art of the Problem" that uses the same analogy that really helped me understand this better:
+
+ [link]
+
+### 35860989-YEBfamv-_do
+Thread: Public-key cryptography (2018)
+Excerpt:
+This is the only video that ever explained it concisely and clearly, IF you don't care about trying to actually implement it: [link]
+
+### 18118903-P3AyI_u66Bw
+Thread: Questions
+Excerpt:
+[link]
+
+### 12033224--HFwok9SlQQ
+Thread: I’m a millennial and my generation sucks
+Excerpt:
+I can't tell if this statement supports or contradicts the rest of the article, but regardless, this bears watching again...
+
+ [link]
+
+### 25981328-iZM_JmZdqCw
+Thread: How to increase your luck surface area (2010)
+Excerpt:
+Check this out, your opinion may change: [link] (54:01)
+
+### 13110226-SGJ5cZnoodY
+Thread: Silicon Valley’s Culture, Not Its Companies, Dominates in China
+Excerpt:
+I would recommend watching this video as a primer on the type of tech culture developing there: [link]
+
+### 15219713-SGJ5cZnoodY
+Thread: Bunnie Huang’s “Hardware Hacker” book is in print
+Excerpt:
+If you don't want to buy a book, there is a video on YouTube about him which talks about many things covered in the book. It's about an hour long.
+
+Edit: here's the link to that Wired video, "Shenzhen: The Silicon Valley of Hardware (Full Documentary)" > [link]
+
+### 18631636-SGJ5cZnoodY
+Thread: American Entrepreneurs Who Flocked to China Are Heading Home, Disillusioned
+Excerpt:
+Nice documentary on Shenzhen if you want to learn more about its history, culture, and advantages:
+
+ [link]
+
+### 19578107-SGJ5cZnoodY
+Thread: MIT cuts ties with Chinese tech firms Huawei, ZTE
+Excerpt:
+In Shenzhen especially, you have to out-compete the others on implementation of ideas instead of rest on your laurels (err, copyrights and patents). Wired has a great documentary of its history and culture here with examples:
+
+ [link]
+
+### 22929043-SGJ5cZnoodY
+Thread: Ask HN: Any good resources, case studies about bootstrapped Hardware startups?
+Excerpt:
+[1]: [link] 
+
+[2]: [link] [Vice report with Andrew Huang]
+
+### 31135510-s86-Z-CbaHA
+Thread: I stopped working on black hole information loss (comment links 2 YouTube videos)
+Excerpt:
+* Mathologer: "Ramanujan: Making sense of 1+2+3+... = -1/12 and Co." [link] 
+
+* Vsauce: "The Banach–Tarski Paradox" [link]
+
+### 31799943-s86-Z-CbaHA
+Thread: Why does science news suck so much? (comment links 4 YouTube videos)
+Excerpt:
+[5]: < [link] >
+
+[6]: < [link] >
+
+### 33697480-s86-Z-CbaHA
+Thread: The Simple Geometry Behind Brownie Bake Offs and Equal Areas
+Excerpt:
+Note that the OP is about cuts that are nice, cutting polygons into smaller polygons, that could be done using a scissor.
+
+The article you linked is about using magical cuts that be non measurable, that look like magical interlocking 2D sponges. They are somewhat like the figures in the gif, but they actually more weird. It's somewhat similar to the Banach–Tarski Paradox. If you like that, I recommend to watch the video by Vsause [link] that explains the Banach–Tarski Paradox with some technical details, but not too many.
+
+### 40797838-s86-Z-CbaHA
+Thread: Banach–Tarski Paradox
+Excerpt:
+I don't know if this will explain your questions, but years ago I watched this video from Vsauce about this very topic, and IIRC it was explained quite nicely: [link]
+
+### 12375033-HlUe0TUHOIc
+Thread: Movfuscator – A single-instruction C compiler
+Excerpt:
+[link]
+
+### 39871276-b2A5ijU3Ivs
+Thread: Mazda’s rotary engine in the age of the electric car
+Excerpt:
+Here's his video on his 1960's one, which is worth watching and some neat animation footage from the period talking about the design: [link]
+
+### 12341624-gIVgUjj6RxU
+Thread: A Soccer Con Man Who Couldn't Play the Game
+Excerpt:
+[link] 
+
+Orsen Welles did a great movie on him and fakery in general - [link]
+
+### 13869186-gIVgUjj6RxU
+Thread: The export and installation of pre-made Irish bars
+Excerpt:
+Authenticity is individuality. It's a trying question though, best considered in depth. Here's my favorite exploration of the topic:
+
+ [link]
+
+### 26022952-rxOKEsBx4NU
+Thread: Jeff Bezos Pitching Amazon.com (1997) [video]
+Excerpt:
+Here's my favourite essay on it, that doesn't only go into the game details but also the underlying narrative, political and economical philosophy that makes this game one of a kind: [link]
+
+### 12327760-L_XJ_s5IsQc
+Thread: Jazz in the 21st century: Playing outside the box (comment links 5 YouTube videos)
+Excerpt:
+more Hiatus Kaiyote : [link] or
+
+more Snarky Puppy : [link]
+
+### 12322346-fTTno8D-b2E
+Thread: The Cuban CDN
+Excerpt:
+I'd recommend watching the video that is linked:
+
+ [link]
+
+### 12579033-9c4z6YsBGQ0
+Thread: iGAN – Deep learning software that generates images with a few brushstrokes (comment links 2 YouTube videos)
+Excerpt:
+Thanks for sharing our work. Check out the full video: [link]
+
+### 15940249-iHzzSao6ypE
+Thread: Elon Musk’s Ideas About Transportation are Boring
+Excerpt:
+No more need to dedicate huge amounts of valuable land in our cities and suburbs to parking (cars can drive themselves to outlying areas to park or, better yet, can be shared).
+
+Dramatically higher throughput because the human mistakes that cause congestion can be avoided (I recommend CGP Grey’s video on the causes of traffic: [link] ). Driverless cars could drive faster and closer together, especially if they can communicate with one another.
+
+### 16471190-V1Eu9vZaDYw
+Thread: How I Learned to Stop Worrying and Love the State Machine (comment links 2 YouTube videos)
+Excerpt:
+In it, he contrasts the data-oriented modelling approach with a traditional OOP approach for implementing a board game, and was able to come up with a complete implementation of the game with the former approach that was shorter than even the structural boilerplate for the OOP version.
+
+Another related talk that I loved was Chris Granger's 2013 talk on Light Table: [link]
+
+### 13454431-plVk4NVIUh8
+Thread: How to Avoid a Post-Antibiotic World
+Excerpt:
+For those that would like to visualise how the bacteria vs anitbiotics evolve in an experiment over 11 days, have a look at this video from Harvard:
+
+ [link]
+
+### 16507186-plVk4NVIUh8
+Thread: The man who bottled evolution
+Excerpt:
+Harvard medical school did a similar experiment on fast evolution of bacterial resistance to antibiotics on a petri-dish. It also clearly shows the lineage of evolution. Very interesting.
+
+ [link]
+
+### 18844138-plVk4NVIUh8
+Thread: Pliocene and Eocene provide best analogs for near-future climates
+Excerpt:
+It is absolutely nowhere near evolutionary adaptive capacity. Life will not end and the world will still be there.
+
+Life's evolutionary adaptive capacity is stagerring! Just take a look at the experiment where it barely stretches muscles: [link]
+
+### 14931105-jFSf5YhYQbw
+Thread: Martin Shkreli is found guilty of securities fraud
+Excerpt:
+The YouTube video of him doing an Ebay Analysis [1] was very interesting I thought, both from a technical point of view and another look at his character.
+
+[1] [link]
+
+### 16455898-BLGFriOKz6U
+Thread: Apple moves to store iCloud keys in China, raising human rights fears
+Excerpt:
+Unfortunately does not apply to regular iCloud backups or most other data. But a major step forward.
+
+ [link]
+
+### 46744075-BLGFriOKz6U
+Thread: Microsoft will give the FBI a Windows PC data encryption key if ordered
+Excerpt:
+iCloud is much more secure than most people realize because most people don’t take the 30 minutes to learn how it is architected.
+
+You can (and should) watch [link] for all the details about how iCloud is protected, but especially the time-linked section. :)
+
+### 8563839-drv3BP0Fdi8
+Thread: The poetry and brief life of a Foxconn worker: Xu Lizhi (1990-2014)
+Excerpt:
+Maybe depression can't be 'fixed', but you can learn to understand it and find ways to ignore it. This helped me: [link]
+
+### 12838656-5IuJGHuIkzY
+Thread: Peter Thiel Speaks at the National Press Club – Live Stream
+Excerpt:
+Trump looks like to be the next President and I would recommend doing your own search to see why.
+
+[0] Video I: Clinton Campaign and DNC Incite Violence at Trump: Rallies [link]
+
+### 12776161-5IuJGHuIkzY
+Thread: What I Learned About Julian Assange While Working Alongside Him (comment links 2 YouTube videos)
+Excerpt:
+[link] - This is FEC data showing Zulema on the payroll of MoveOn.org. Note how the dates correlate with the previous item. This casts quite a bit of doubt on the story she told cops in the previous video.
+
+ [link] - The infamous O'Keefe video contains a description of bird dogging that's a lot less innocent than the one above. They discuss getting people to cause violence at the Trump protests. Zulema, in particular, mentions being both at the AZ protests (which we've corroborated above), and at another, more violent protest.
+
+### 12732370-HPuvDm8IC-4
+Thread: Dropping Linux capabilities to improve container security
+Excerpt:
+edit PS: One common exception to this philosophy is a short-lived container for admin/management/debugging. Having a full OS with devel/admin tools is useful for investigation/maintenance purposes, then you kill it and nothing is changed in prod.
+
+[1] [link]
+
+### 18429429-KbB0FjPg0mw
+Thread: Ask HN: Book which comprehensively covers probability theory?
+Excerpt:
+It bothers me that the author does not provide the answer to most of the questions. This is specially bad in this field of Mathematics (Probability). As an example, in calculus you can always plot the curve, the derivative and see if the result makes sense, in probability theory it is hard to have a simple and safe sanity check.
+
+You can watch all classes from Harvard here for free: [link]
+
+### 15871922-yG1OZ69H_-o
+Thread: New things in clang land (5.0.0)
+Excerpt:
+I'd really suggest watching [link]
+
+### 12643106-zBkNBP00wJE
+Thread: The cost of forsaking C
+Excerpt:
+Take a look at the useless features and bloat in this video. Modern C++ isn't what you think it is.
+
+ [link]
+
+### 23286590-zBkNBP00wJE
+Thread: The Ten Commandments for C Programmers (1987)
+Excerpt:
+To see how these and other language features combine to allow for highly-efficient code, check out this video:
+
+CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”
+ [link]
+
+### 12684636-MlhAkNWC1qo
+Thread: Ask HN: What's your favorite tech talk?
+Excerpt:
+One of my favorites. dhh showing once again his ruthless pragmatism:
+
+ [link]
+
+### 24630127-MlhAkNWC1qo
+Thread: Do things that don't require scale
+Excerpt:
+Reminds me of this very controversial but incredible talk by @DHH of Basecamp/Hey: [link]
+
+### 23698767-PFDu9oVAE-g
+Thread: Ask HN: Should I learn Linear Algebra? Why?
+Excerpt:
+The videos of 3blue1brown are very good:
+
+ [link]
+
+### 17361625-PGLYEDpNu60
+Thread: Bedford and the Normalization of Deviance
+Excerpt:
+One of the most important talks I've ever seen is Richard Cook's "Resilience In Complex Adaptive Systems"[1], in which he explains the fundamental abstract mechanism that causes the normalization of deviance.
+
+[1] [link]
+
+### 18816642-Bv_5Zv5c-Ts
+Thread: Show HN: Learn and practice modern JavaScript
+Excerpt:
+I think you will like it. It is "modern" but not a new video. It is probably about 3 years old. Still relevant. He has a udemy course for $10 bucks.
+
+ [link]
+
+### 12928191-mZsaaturR6E
+Thread: China’s ‘Artificial Sun’ achieves fusion breakthrough
+Excerpt:
+In A Nutshell just published a primer on nuclear fusion yesterday! It's my favorite ELI5 style science channel.
+
+ [link]
+
+### 12880180-rStL7niR7gs
+Thread: Is democracy a failure? (1861)
+Excerpt:
+The problems with the world are not user error. How can technology help?
+
+1. [link] 
+2. [link]
+
+### 13054089-rStL7niR7gs
+Thread: Uganda is shutting down schools funded by Mark Zuckerberg, Bill Gates
+Excerpt:
+[link] 
+
+To kick your understanding of organizational problems up a level, I recommended watching CGP Grey's 'Rules for Rulers' [link]
+
+### 13042848-rStL7niR7gs
+Thread: Fidel Castro has died
+Excerpt:
+I found this video [1] quite enlightening about the nature of power and how to hold onto it.
+
+[1] [link]
+
+### 13669893-rStL7niR7gs
+Thread: Robots Rule at Swiss Factories as Strong Franc and Wages Bite
+Excerpt:
+>> Why "combat" the impact of robots?
+
+For an outside consideration, take the view outlined in this "Rules for Rulers" video ( [link] )--especially the part that discusses what sort of political structures arise when wealth is generated mostly independent of human production (e.g. are we sitting on a gold mine?).
+
+### 13925250-rStL7niR7gs
+Thread: “Evicted”, an ethnographic study of tenants in low-income housing (2016)
+Excerpt:
+This video by CGP Grey, based on the book "The Dictator's Handbook" is very good at explaining why some countries are richer, even if they have plenty of natural resources:
+ [link]
+
+### 17622993-rStL7niR7gs
+Thread: A Drop of 4 Degrees Made a Big Difference for a Garment Maker's Bottom Line
+Excerpt:
+Our economies are more based on knowledge, so we get better lives.
+
+CGPGrey's rules for rulers is a very good outline of this and other related topics: [link]
+
+### 21476306-rStL7niR7gs
+Thread: You can fool some of the people, all of the time
+Excerpt:
+If you've never seen it, this is a good watch:
+
+ [link]
+
+### 23892768-rStL7niR7gs
+Thread: Portland police declare riot as anti-cop protesters torch union headquarters
+Excerpt:
+I'd recommend The Dictator's Handbook to understand why that won't work, but you don't seem like the sort to read books. Rules for Rulers is a nice summary:
+
+ [link]
+
+### 28429770-rStL7niR7gs
+Thread: Russia asks Google to clamp down on Navalny′s ‘Smart Voting′ (comment links 2 YouTube videos)
+Excerpt:
+To learn some of the answers to those questions, may I suggest you start with a particular YouTube video [1] (and its sequel [2]) and the book that inspired them [3]?
+
+[1]: [link]
+
+### 30229118-rStL7niR7gs
+Thread: Expanded Child Tax Policy Slashed Child Poverty
+Excerpt:
+Unless your business is extracting something from the ground, like oil, diamonds or gold, without the help of the majority of the population.
+
+From "The Rules for Rulers" by CGP Grey, an adaptation of "The Dictator's Handbook"
+ [link]
+
+### 30888553-rStL7niR7gs
+Thread: Kazakhstan president proposes reforms to limit his powers
+Excerpt:
+Watch this video ("The Rules for Rulers" from CGP Grey)[0], it's a summary of a book from de Mesquita ("The Dictator's Handbook")[1]. The video explains this process very well, imo.
+
+[0] [link]
+
+### 36620364-rStL7niR7gs
+Thread: Ask HN: Stuck as a developer for 15 years. How to become a manager?
+Excerpt:
+- Difficult Conversations.
+
+Now I also recommend: [link]
+
+### 44405561-rStL7niR7gs
+Thread: We need to talk about Saudi Arabia
+Excerpt:
+This video by CJP Grey explains this dynamic very well, for anyone interested.
+
+ [link]
+
+### 18272816-rStL7niR7gs
+Thread: Who Are My Investors?
+Excerpt:
+“stomp” is a bit exaggerated... Democracies are usually more economically efficient, whinch in the long run means more productive power for tech progress or weapons/munitions manufacture. But the catch is “the long run” there is some history of tribal/ dictatorial states distabalizing democracies and “winning” if they do it quickly and ferociously enough. Or even just ferociously.
+
+A very good source of info about a lot of the powers and incentives in something like this is the “rules for rules” [link] video from cgp grey [link]
+
+### 19091223-rStL7niR7gs
+Thread: Ask HN: What books changed the way you think about almost everything?
+Excerpt:
+* (Only for Indians) India After Gandhi. You can’t really understand your country if you don’t know it’s history. History stopped in 1947 according to our history books, and most people are blissfully unaware of what came after. They don’t know how close India came to losing democracy or how easily it could happen again. They don’t understand the dangers of promoting one language at the expense of others because they don’t know that it’s been tried before. Every Indian needs to know so we don’t repeat the mistakes of the past over and over.
+
+[1] - [link]
+
+### 13157753-WIyTZDHuarQ
+Thread: The “dead and alive” cat myth
+Excerpt:
+A bit unrelated, but there's a possibility that quantum mechanics are not exactly probabilistic and that they're actually deterministic, while still being compatible with observed quantum phenomena. This video explains it well [link]
+
+### 13223612-sBzRwzY7G-k
+Thread: At the age of 38, am I too late to change career to front end dev work?
+Excerpt:
+1. Zed Shaw of the "Learn Python the Hard Way" said programmers are dime a dozen. What's really valuable is a programmer who has experience from another domain such as history, engineering, medicine etc (and accounting in your case). I cannot recall exactly where he said it but I remember reading it and chuckling to myself.
+
+2. Are you sure you want front-end dev work? Why not back-end? Exactly what skills are in demand?
+I recommend you watch this video on state of tools available in web dev including front-end, back-end, and DevOps as of 2016.
+ [link]
+
+### 13478787-sBzRwzY7G-k
+Thread: The Road to Learning Web Development 2016/2017 Edition
+Excerpt:
+OP Here, I found this as part of the video 2016/2017 MUST-KNOW WEB DEVELOPMENT TECH [1] and thought this was a really neat thing to share. Check out other videos by LearnCode.academy. That's how I got started with React.
+
+[1]: [link]
+
+### 46672448-tt7gP_IW-1w
+Thread: Gaussian Splatting – A$AP Rocky "Helicopter" music video
+Excerpt:
+Several of ASAP's video have a lo-fi retro vibe, or specific effects such as simulating stuff like a mpeg a/v corruption, check out A$AP Mob - Yamborghini High ( [link] )
+
+### 17900688-1bO8zEaSuWg
+Thread: Tell Your Co-Workers How Much Money You Make
+Excerpt:
+I suggest checking out Tom Scott's "In Norway, Everyone Can Know How Much You Earn", at [link]
+
+### 14574123-sULa9Lc4pck
+Thread: Towards a Better Notation for Mathematics (2010) [pdf]
+Excerpt:
+My favorite new math notation is the triangle of power: [link]
+
+### 13438297-kjBOesZCoqc
+Thread: Ask HN: What are you learning?
+Excerpt:
+check out this playlist[0]. This guy provides intuition behind major LA concepts. Have fun! :)
+[0] [link]
+
+### 17966982-r8RxkpUvxK0
+Thread: Dark Motives and Elective Use of Brainteaser Interview Questions
+Excerpt:
+I like this video:
+
+ [link]
+
+### 46354971-3GJUM6pCpew
+Thread: The biggest CRT ever made: Sony's PVM-4300
+Excerpt:
+For anyone this deep on the thread, check out this video (great presenter!) explaining TV spectrum allocation, NTSC, PAL, and the origin of 29.97 fps.
+
+ [link]
+
+### 12747435-bS5P_LAqiVg
+Thread: Why the Film Industry Hasn't Been Disrupted Yet, Part 5
+Excerpt:
+While slapstick, check out Kung Fury for an example of successful collaborative filmmaking:
+
+ [link]
+
+### 29867870-bS5P_LAqiVg
+Thread: Ask HN: Please recommend a free online movie/documentary
+Excerpt:
+If you like cheesy, 80s-style action movies, check out "Kung Fury":
+
+ [link]
+
+### 21702320-ecIWPzGEbFc
+Thread: Say it's 1962, you're lucky enough to be a programmer working with an IBM 7090
+Excerpt:
+Mandatory mention [0] of the amazing talk of Uncle Bob "The Future of Programming", and his timeline of programming since Turing. Fascinating conference
+
+[0] [link]
+
+### 13450870-mzMnyYdO8jk
+Thread: Peloton – a relational database designed for autonomous operation
+Excerpt:
+I think this database is very interesting even if you don't care about the time saving part of it, since it claims to be a hybrid (OLAP and OLTP), it implements postgres' wire protocol and it claims to compile queries to machine code using LLVM [1].
+
+[1]: [link] (slideshow: [link] )
+
+### 13061848-0yzJAKknE_k
+Thread: HPACK: the silent killer (feature) of HTTP/2
+Excerpt:
+When I look at site waterfalls today ... cnn.com for example is making 20 separate Javascript file requests against its own domain. They don't have to develop their entire JS backend in a single file, but when deploying to production, they should be merging them.
+
+There's also the corollary that trying to put everything on the same connection (both HTTP/2 stream multiplexing and HTTP/1 file merging) tends to have disastrous consequences when you start experiencing 2% packet loss or higher. Great video with charts on that here: [link]
+
+### 13057296-0yzJAKknE_k
+Thread: HPACK: the silent killer (feature) of HTTP/2
+Excerpt:
+I recommend watching this video by Fast.ly on some real metrics comparing HTTP/2 and HTTP/1:
+
+ [link]
+
+### 16339115-0yzJAKknE_k
+Thread: QUIC as a solution to protocol ossification
+Excerpt:
+QUIC also has multiple streams, but it doesn't have this head of line problem and other streams will continue to work fine if one stream blocks. So QUIC was made for HTTP/2, where your HTTP/2 streams are basically replaced by QUIC streams which are not affected by loss of packets at all.
+
+If you want to see how loss of packets affect an HTTP/2 connection over TCP, it's pretty bad. In general if you're on a lossy connection you should just use HTTP/1. Check this awesome talk: [link]
+
+### 13044549-wlR5gYd6um0
+Thread: How to start using VIM?
+Excerpt:
+In video form, the best introduction I have seen is Chris Toomey’s ‘Mastering the Vim Language’:
+ [link]
+
+### 43658291-fhOHn9TClXY
+Thread: Erlang's not about lightweight processes and message passing (2023)
+Excerpt:
+Totally! I love the Alan Kay and Armstrong one too [link]
+
+### 14921882-BYRTvoZ3Rho
+Thread: To Protect Voting, Use Open-Source Software
+Excerpt:
+I find Rivest's video( [link] ) on homomorphic encryption as voting mechanism quite interesting. It looks more secure than pen and paper.
+
+### 29621832-xZePwin92cI
+Thread: Show HN: Mum's 80th birthday present- a rotary phone from the 1970's
+Excerpt:
+I remember seeing how these switches actually worked in a museum. Quite interesting.
+
+ [link]
+
+### 36900860-xZePwin92cI
+Thread: Hydraulic Steering – Principles of Operation (1956) [video]
+Excerpt:
+My favorite old explainer video, telephone switching (1951): [link]
+
+### 15807404-seLLJP3H1FU
+Thread: What the Stoics did for us
+Excerpt:
+There is also a [link] video by the same guy that wrote the article. I found it to be quite interesting (much of the points in the video are the same as in the article, maybe in a little more depth).
+
+ [link]
+
+### 25652591-0olpSN6_TCc
+Thread: Ask HN: What YouTube channels do you subscribe to? (comment links 19 YouTube videos)
+Excerpt:
+- VSauce: Science-y? 
+-- [link] 
+-- Great first video: [link] 
+
+- Practical Engineering:
+-- [link] 
+-- Great first video: [link]
+
+### 24968987--fny99f8amM
+Thread: South Park creators have new political satire series with AI-generated deepfakes (comment links 2 YouTube videos)
+Excerpt:
+I recommend watching Adam Curtis' documentary called Hypernormalisation to get a sense of how badly this can get abused by political operatives. Especially this clip: [link] 
+
+ [link]
+
+### 9907770-2OSrvzNW9FE
+Thread: What is the most ridiculous aircraft design?
+Excerpt:
+My favorite is the Flettner aeroplane since it uses the Magnus effect [1][2] as it generates lift without a wing. Screenshot linked in the original post [3].
+
+[1] [link] 
+[2] [link] 
+[3] [link]
+
+### 42492874-XA2WjJbmmoM
+Thread: Ask HN: Programmers who don't use autocomplete/LSP, how do you do it?
+Excerpt:
+Check out this video: How to do 90% of what plugins do with just vim.
+
+ [link]
+
+### 15674556-tJag3vuG834
+Thread: Arrow's Theorem (2014)
+Excerpt:
+I find this is one of the best videos on the subject:
+
+ [link]
+
+### 28871559-wfYbgdo8e-8
+Thread: Spinoza’s God: Einstein believed in it, but what was it?
+Excerpt:
+Every time someone brings up consciousness I like to bring up [link] . Split brains imply some very interesting ideas around of consciousness.
+
+### 42211403-wfYbgdo8e-8
+Thread: Show HN: Llama 3.2 Interpretability with Sparse Autoencoders
+Excerpt:
+The split-brain experiment is one of my favorites! [link]
+
+### 24030614-wfYbgdo8e-8
+Thread: A man who can read letters but not numbers exposes roots of consciousness
+Excerpt:
+There's very interesting research into this question. This video is easily digestible.
+ [link]
+
+### 13253278-zi0rHwfiX1Q
+Thread: QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs (2000) [pdf]
+Excerpt:
+I'd recommend watching this [link] to see how powerful this can be.
+
+### 24352165-oyLBGkS5ICk
+Thread: Python setuptools v50 breaks pip installation on Debian/Ubuntu
+Excerpt:
+And while there is lots of annoyment and cursing about package managers, I think a huge part of the problem is a cultural issue in the python community because people accept and create libraries with backwards-incompatible changes without marking that in the version numbers.
+
+Obligatory link to Rich Hickey's brilliant talk on how to do it better: [link]
+
+### 13198742-RlXdsyctD50
+Thread: Why don't more physicists subscribe to pilot wave theory?
+Excerpt:
+Here's their recent episode on pilot wave theory:
+
+ [link]
+
+### 13116604-gGQrsSEaZkI
+Thread: Seiko 80s Computer Watches (2005)
+Excerpt:
+Here's a video on an early HP calculator watch. While not on computer watches, it has a nice introduction on the early history of calculator watches:
+
+ [link]
+
+### 13099148-4cRlqE3D3RQ
+Thread: The Unsolvable Mysteries of the Voynich Manuscript (comment links 2 YouTube videos)
+Excerpt:
+It's really great to see how much progress the community has made.
+
+ [link]
+
+### 14716693-hER0Qp6QJNU
+Thread: Why I deleted my Facebook account
+Excerpt:
+Plus try explaining to your boss that you're not reading email and slack and you're never coming back because you're in notification rehab.
+
+Simon Sinek explains it perfectly: [link]
+
+### 14837867-mbEfzuCLoAQ
+Thread: What it’s like to ship yourself overnight on Cabin’s sleep pod bus
+Excerpt:
+Here's a good overview why.
+
+ [link]
+
+### 24244327-mbEfzuCLoAQ
+Thread: Ask HN: What non-obvious tech/market may take off in the next few years?
+Excerpt:
+I might be wrong but this seems like a very US-centric idea. For most of the developed world trains fill this need very well, while the US has had problems with their rail network for reasons partially based on geography, partially based on population density, and partially based on their own fault. I think this explains it pretty well: [link]
+
+### 12096751-wJUXLqNHCaI
+Thread: Shedding light on the dark web
+Excerpt:
+Take a look at this short overview of research on addiction and the futility of the drug war.
+
+ [link]
+
+### 37424530-qCGofLIzX6g
+Thread: Mojo is available for local download
+Excerpt:
+You can't have Python run that much faster without loosing lots of features. I guess if they open sourced it, people wouldn't be that impressed with what they implemented. This video [0] from the creator of Flask explains it quite well.
+Here [1] is Guido talking about Mojo being in early days and sharing some technical details.
+
+[0] [link] 
+[1] [link]
+
+### 24849302-qCGofLIzX6g
+Thread: Attempts to make Python fast (comment links 2 YouTube videos)
+Excerpt:
+I found the following talks by Armin Romacher very informative on these topics (C API, why python is more difficult to speed up than JS).
+
+ [link] 
+ [link]
+
+### 16046949-XbOeO_frzvg
+Thread: Ask HN: What’s your favorite talk from 2017?
+Excerpt:
+I think he deliberately tries to appeal to the kind of disillusioned young white men who mostly make up the "alt right", but he tries to steer them away from the identity politics of "white nationalism" and towards personal responsibility and self-improvement.
+
+Check out this video for the best example: [link]
+
+### 13274566-tZrleBFAleQ
+Thread: Ebikes: I Sing the Ride Electric (comment links 2 YouTube videos)
+Excerpt:
+The motor slides right in the hole, you cinch it down on one side, re-attach crank arms and pedals and chain, and from there it's a matter of plugging everything in and a little cable management. Zip ties will be needed.
+
+Here's an incredible riding video to motivate you: [link]
+
+### 18218518-p33CVV29OG8
+Thread: Ask HN: What are some of the best technical talks you've heard?
+Excerpt:
+I don't know if it is part of the bests, but very interesting anyway: Modern Dictionaries by Raymond Hettinger [1] It's about Python 3.6 dictionaries improvements.
+
+[1] [link]
+
+### 21803134-YJg02ivYzSs
+Thread: Calm Technology
+Excerpt:
+Check out Hyper Reality: [link]
+
+### 28149532-YJg02ivYzSs
+Thread: The metaverse is a dystopian nightmare – let’s build a better reality
+Excerpt:
+The virtual reality vision is less clear, because it doesn't really work yet. Moving around wearing VR headgear still doesn't work if you want to go very far, which is why Beat Saber is still the best VR game. Keyboard and screen, preferably with a big screen, still beats headgear for extended use. Nobody has a really good answer to that problem. VRChat is probably as good as it gets right now, short of the location-based systems.
+
+[1] [link]
+
+### 27933818-YJg02ivYzSs
+Thread: Mark Zuckerberg says Facebook will turn into a ‘metaverse’ (comment links 3 YouTube videos)
+Excerpt:
+[2] [link] 
+
+[3] [link]
+
+### 16805323-PKfR6bAXr-c
+Thread: Productivity
+Excerpt:
+Basically there's a lot of health benefits to intermittent fasting.
+
+This video covers a lot of it quite well & links to sources.
+Longevity & Why I Eat Once Per Day:
+ [link]
+
+### 13263853-FJXgKY2O4po
+Thread: Tesla's next-generation Superchargers should be much faster
+Excerpt:
+[1] [link] 
+
+[2] [link] FreeValve as explained by that really enthusiastic "Engineering Explained" 24 year old automotive engineer, dumbed down to the point where even I can grok it.
+
+### 13262404-wpOxbesRNBc
+Thread: Dasher: Writing text really fast without typing or speaking
+Excerpt:
+This is really awesome. It looks hard, but it isn't. Here's a talk from 2007 that explains it well [link]
+
+### 16287388-VW_R98EBO7s
+Thread: HyperNormalisation by Adam Curtis (2016) [video]
+Excerpt:
+edit: if you dont have the 3 hrs to watch this documentary, you can get a great taste by watching this podcast clip set to some particularly moving imagery and music.. (hat tip to adam curtis editing style, perhaps? ;) )
+
+ [link]
+
+### 16102895-n691pLhQBkw
+Thread: James Damore has filed a class action lawsuit against Google
+Excerpt:
+In short, yes. You should look up the book which is cited in this video, and you should listen to the discussion of the prologue:
+
+ [link]
+
+### 18940357-sqEyWLGvvdw
+Thread: Ask HN: How to self-study mathematics from the undergrad through graduate level? (comment links 2 YouTube videos)
+Excerpt:
+Stephen Boyd's courses are online. [link] Linear Systems, convex optimization. Useful stuff.
+
+Francis Su's Real Analysis is very good [link]
+
+### 28515759-bYviBstTUwo
+Thread: My life after quitting social media (comment links 2 YouTube videos)
+Excerpt:
+Some other data researcher has dipped into this a bit:
+
+SpiegelMining – Reverse Engineering von Spiegel-Online (33c3):
+* [link] 
+* English version: [link]
+
+### 30876732-g0TaYhjpOfo
+Thread: The singularity is close?
+Excerpt:
+One of my favourite demonstration of that was the 2015 DARPA robot challenge, where one robot after the other failed at such difficult tasks as walking and opening a door.
+
+ [link]
+
+### 17290104-X2wLP0izeJE
+Thread: Ask HN: How Do I Become as Proficient with Art as I Am with Computing?
+Excerpt:
+Given your background, taste is the only one I'd worry about, but if you're shooting for photorealism, that's fine. You've got taste about what photos look like. That's easy. I'd bet that, after getting in the game, your goal won't be photorealism at the 5 year mark. But that's for later.
+
+Here's Ira Glass, of NPR, with a fairly famous set of remarks about overcoming the period of time when you know what good art looks like, and know that the art you are making is not good: [link]
+
+### 23885356-2xcZS7arcgk
+Thread: Hugelkultur: Raised Garden Beds
+Excerpt:
+For example check out the "Greening the desert" project.
+
+ [link]
+
+### 39348769-CaCcOwJPytQ
+Thread: Kalman Filter Explained Simply
+Excerpt:
+I really like this set of videos for explaining the KF. I 'got it' more than I did with the material on the original post.
+
+ [link]
+
+### 13985738-RffPSrRpq_g
+Thread: A researcher's response to people pointing out 150 errors in four of his papers
+Excerpt:
+[link] This seems like a good intro to climate science, wouldn't you agree?
+
+### 14674864--yUafzOXHPE
+Thread: McClure steps back at 500Startups after internal sexual misconduct investigation
+Excerpt:
+Seriously, I think "Always Sunny" explains it best (i.e., because of "the implication")
+
+ [link]
+
+### 39685896-aP0Y1uAA-2Y
+Thread: How Mandelbrot set images are affected by floating point precision
+Excerpt:
+[link]
+
+### 22001814-CHCCjlSWbHE
+Thread: Turn-by-turntables: How drivers got from point A to point B in the early 1900s
+Excerpt:
+[1] [link] 
+
+[2] [link]
+
+### 25064750-NAh9oLs67Cw
+Thread: Why's (Poignant) Guide to Ruby (2004)
+Excerpt:
+My favorite may be this one, a one-hour single-take monologue about finding the meaning of life in a Garfield strip.
+
+ [link]
+
+### 36121487-NAh9oLs67Cw
+Thread: The odd appeal of absurdly long YouTube videos
+Excerpt:
+It's only an hour, but I love this deep absurd analysis of a single Garfield comic. An hour long, set to the music of Kundun by Philip Glass. [link]
+
+### 25277479-F_0yfvm0UoU
+Thread: Alternative notation for exponents, logs and roots? (2011) (comment links 3 YouTube videos)
+Excerpt:
+It involves getting a geometric understanding of e to the pi i, and 3blue1brown explains it better than I could:
+
+ [link] [6.28 min]
+
+### 13687754-FLZvOKSCkxY
+Thread: Ask HN: Needs advice on learning NLP
+Excerpt:
+This is one of the best resources for learning NLP using Python - [link]
+
+### 17407304-kFiYL8AvvnY
+Thread: Continuous urbanization in Japan
+Excerpt:
+-- and organic expansion through duplication
+ [link] 
+
+In this talk here he talks about the classical vs vernacular layout styles [link]
+
+### 13657196-HOuZyOKa91o
+Thread: Can This Man Spark a Renaissance for the Smalltalk Programming Language?
+Excerpt:
+bout Smalltalk is the very tight code/compile/debug loop.
+Indeed, its common to "code from within the debugger" where you compile your first method calling methods that don't exist yet, 
+and when execution hits them, the system asks you to define that method and then continues execution.
+This is great for protoyping and (purely subjective) I feel program architecture ends up being closer to how a "user" of the library would like it layered.
+
+A video by someone outside the Pharo community (Avdi has published several books on Ruby) shows a bit of this
+[3] [link]
+
+### 24130222-HOuZyOKa91o
+Thread: Emacs 27.1 (comment links 3 YouTube videos)
+Excerpt:
+"7 minutes of Pharo Smalltalk for Rubyists"
+
+ [link]
+
+### 27132299-HOuZyOKa91o
+Thread: Ask HN: Choosing a language to learn for the heck of it
+Excerpt:
+You're welcome. To illustrate what the Pharo environment looks like, I'd also recommend this short 7 min video by Avdi Grimm: [link]
+
+### 24963623-tIuj-oMN-Fk
+Thread: Intake of saturated fatty acids and risk of coronary heart disease (comment links 2 YouTube videos)
+Excerpt:
+- [link] 
+
+- [link]
+
+### 27280124-3owk7vEEOvs
+Thread: GCHQ’s mass data-sharing violated right to privacy, court rules (comment links 2 YouTube videos)
+Excerpt:
+> setting an example of what happens when you expose the truth.
+
+Snowden came after several others who were persecuted by the US Govt. Some even had their doors kicked in and guns pointed at their faces while they were in the shower. Check out what they did to NSA's Bill Binney, who ran COMINT for the NSA and was talking about the programs used to collect data before 9/11, and after. [link]
+
+### 13621008-WFCvkkDSfIU
+Thread: Why Do DMT Users See Insects from a Parallel Universe?
+Excerpt:
+[link]
+
+### 29781577-gSPNRu4ZPvE
+Thread: Healthy soil is key to feeding the world (comment links 2 YouTube videos)
+Excerpt:
+i love the work of Million Belay with The Alliance for Food Sovereignty in Africa (AFSA) ( [link] ) as well as with the Stockholm Resilience Agency. this video of his and others like it really drove home the important core reasons to focus on soil health: [link] ( [link] )
+
+also i think this video about Ernst Götsch and his 'syntropic' agroforestry is very exciting: [link]
+
+### 18306505-Z1qyvQsjK5Y
+Thread: Qt Design Studio 1.0
+Excerpt:
+If you’d like to make graphical applications though, I recommend immediate mode frameworks
+
+ [link]
+
+### 19260871-QMiubC6LdTA
+Thread: Struck by a Thunderbolt
+Excerpt:
+I imagine the spec doesn't really exist because Intel has been too lazy to properly write it (I wouldn't be surprised if Thunderbolt is basically defined as whatever the original Ridge controller implemented) and it's probably also gross. Adoption seems to be limited by cost, not by secrecy (thinking back to Firewire, it was open but there were very few controller chips for it).
+
+[1] Check out PCIe over RS-232: [link]
+
+### 40133607-QMiubC6LdTA
+Thread: How to reenable undervolting in 2020 Dell Laptops by editing EFI variables
+Excerpt:
+This is a good watch, it goes into detail on the architecture of the PS4 showing how it differs from a standard x86_64 “PC.”
+
+ [link]
+
+### 13927750-_DrsVhzbLzU
+Thread: 'My life was ruined by a typo'
+Excerpt:
+I'm reminded of this exchange between a journalist and a British justice minister where the minister seems incapable of understanding that punishing people who turned out to be innocent isn't an effective system.
+
+ [link]
+
+### 30314934-mhFQA998WiA
+Thread: Ask HN: Have OCD, suffering from extreme procrastination, please help?
+Excerpt:
+I've watched a lot of videos and read a lot of books on procrastination, and this is by far the best.
+
+[1] - [link]
+
+### 22897343-snz7JJlSZvw
+Thread: Hand Scraping a Truly Flat Plane (1908) [pdf]
+Excerpt:
+I like this video from John Dobson about handmade telescopes, where he builds a complete telescope including hand grinding the mirrors. [link]
+
+### 26256267-snz7JJlSZvw
+Thread: Ask HN: What entry-level telescope should I choose?
+Excerpt:
+This is the model I have (8" aperture, $450): [link] 
+
+They're also rather easy to construct, if you are of a DIY mind.
+Here's a 90 minute [link] video on how to build one, with John Dobson himself: [link]
+
+### 43263798-sTzp76JXsoY
+Thread: Show HN: Free boring character counter but with modern UI (comment links 2 YouTube videos)
+Excerpt:
+Check this out if you're interested: [link] (Tom Scott, 3min, "Why Do Flag Emoji Count As Two Characters?")
+
+### 30934669-sQS06Qjnkcc
+Thread: What’s new in Emacs 28.1? (comment links 2 YouTube videos)
+Excerpt:
+1. Mike Zamansky [link] 
+
+2. Rainer König org-mode [link]
+
+### 35380793-wxL4ElboiuA
+Thread: One man’s quest to revive the great American vacuum tube
+Excerpt:
+I came to comment about Dalibor as well - amazing [link] channel. Recommended viewing for anyone who loves home-ish-scale, high-quality manufacturing: [link]
+
+### 14112492-ojm74VGsZBU
+Thread: Walking in L.A.
+Excerpt:
+I recommend "Los Angeles Plays Itself" to any interested in seeing the juxtaposition of what you see in movies/tv with the reality.
+
+There's also a much shorter, funnier one called "Vancouver Never Plays Itself" - [link]
+
+### 21186381-ojm74VGsZBU
+Thread: Apple Hides Taiwan Flag in Hong Kong
+Excerpt:
+One of my favourite Youtube channels, Every Frame A Painting, talks about this in Vancouver - except that the movies are rarely set in Vancouver:
+
+ [link]
+
+### 48781240-ojm74VGsZBU
+Thread: Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)
+Excerpt:
+One of my favorite YouTube channels, Every Frame a Painting, has a video on this [link]
+
+### 39498616-seVSlKazsNk
+Thread: Tacit programming
+Excerpt:
+My favorite resource on Tacit programming is Point Free or Die: [link]
+
+### 18158456-cENbkHS3mnY
+Thread: The Scots Language
+Excerpt:
+Here's a great lecture about the Scots language and it's history - in Scots. I found I could understand it if I focus, perhaps given my exposure to British comedy.
+ [link]
+
+### 14052680-Erp8IAUouus
+Thread: For 18 years I thought she was stealing my identity, until I found her
+Excerpt:
+And as to why the SSN is the way it is, it's a usage of convenience. Before the SSN there was no unique identifier for every citizen then suddenly to keep track of the new entitlement and assistance programs during the great depression one was created and companies started using it as they wanted because it was the most convenient uuid available. There's a good recent CGP Grey video about the history of SSN and why it's such a silly mess today.
+
+ [link]
+
+### 15352097-Erp8IAUouus
+Thread: Stop Calling it ‘Identity Theft’
+Excerpt:
+CGP Gray did a really good video[1] about this recently. The short version is that it's the least terrible mechanism presently available for uniquely identifying and disambiguating American citizens.
+
+[1] [link]
+
+### 15658468-Erp8IAUouus
+Thread: Senators push to ditch social security numbers in light of Equifax hack
+Excerpt:
+Here's a relevant pop science video by CGP Grey[0] that explains all the various problems with SSNs. My favorite part is the fact that until quite recently (2011) you could decrement or increment a given SSN by 1 and get another valid SSN, since they were sequential.
+
+[0]: [link]
+
+### 26614868-Erp8IAUouus
+Thread: No, I did not hack your MS Exchange server
+Excerpt:
+We had a similar issue in Australia, but our workaround is that your drivers license (or ID card from the equivalent of the DMV) typically acts as your ID.
+
+[0] [link]
+
+### 17135021-7vfqkvwW2fs
+Thread: Filmstro: Royalty-Free Music
+Excerpt:
+In that vein, I recommend this video about the Marvel Universe music and the general use of "temp music". It touches a lot of the points you mention: [link]
+
+### 31440374-7vfqkvwW2fs
+Thread: Vangelis has died
+Excerpt:
+That's more due to how movie scores are produced these days. Every Frame A Painting explains it really well in this video on why you can't remember any music from Marvel movies:
+
+ [link]
+
+### 27566495-QsBT5EQt348
+Thread: The American West is drying out. Things will get ugly
+Excerpt:
+The problem is not growing population, correlation is not causation. The root problem is lack of renewable tech that can sustain the modern quality of life for all humanity.
+
+I suggest watching this: [link]
+
+### 27591295-QsBT5EQt348
+Thread: Australia opposes Great Barrier Reef ′in danger′ listing (comment links 3 YouTube videos)
+Excerpt:
+I knew you would say this, I was just waiting for it. Global birth rates have been in freefall for decades now, it's tragic that people don't know about it. You'd assume that supposedly "better" education in western countries would make people more aware, but western governments are only concerned with maintaining global western hegemony which requires falsely accusing the rest of the world and keeping their citizens ignorant. Also, you can't force people to have less children, that's inhumane. I suggest you go through the following links.
+
+ [link]
+
+### 14705650-QsBT5EQt348
+Thread: Japan's population is falling faster than ever before
+Excerpt:
+If you're worried about overpopulation on Earth, check out Kurzgesagt's video on the topic. It's absolutely essential.
+
+ [link]
+
+### 16088864-iGbC5j4pG9w
+Thread: Why Is 'Affordable' Housing So Expensive to Build?
+Excerpt:
+Check out this video explaining why you can buy new detached homes in Tokyo for about 300k usd.
+
+ [link]
+
+### 35406876-iGbC5j4pG9w
+Thread: What broke Sweden? Real estate bust exposes big divide
+Excerpt:
+I like this video about the cost of housing in Tokyo: [link]
+
+### 18607277-LIb3L4vKZ7U
+Thread: Using D to Create the World’s Fastest File System
+Excerpt:
+This article highlight the value of "design-by-introspection" applied to a particular problem space:
+ [link] 
+
+This talk present a concrete example of such:
+ [link] (mind bending stuff)
+
+### 25403583-LIb3L4vKZ7U
+Thread: Writing a Memory Allocator (2019)
+Excerpt:
+Every time I hear someone talking about writing a memory allocator, it always reminds me of the brilliant CppCon 2015 talk by Andrei Alexandrescu about how he wrote an modular allocator library that can be built up in pieces to make whatever you like.
+
+ [link]
+
+### 15625305-fjs2gPa5sD0
+Thread: Appalachian miners reject retraining because they think coal will make comeback
+Excerpt:
+This video explains well the job problem for people who are unable to learn fast:
+
+ [link]
+
+### 28343141-YNTARSM-Fjc
+Thread: Using Postgres and pgRouting to Explore the Smooth Waves of Yacht Rock (2020)
+Excerpt:
+Also don't miss this wonderful parody series:
+
+ [link]
+
+### 14238286-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (May 2017)
+Excerpt:
+Check out this video of our car driving fully autonomously 
+through SF!
+
+ [link]
+
+### 14462388-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (June 2017)
+Excerpt:
+Check out this video of our car driving fully autonomously through SF!
+
+ [link]
+
+### 14902401-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (August 2017)
+Excerpt:
+We are looking to hire C++ engineers across the entire company so please check out our open roles!
+Check out this video of our car driving fully autonomously through SF!
+
+ [link]
+
+### 15152659-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (September 2017)
+Excerpt:
+Check out this video of our car driving fully autonomously through SF!
+
+ [link]
+
+### 15385875-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (October 2017)
+Excerpt:
+We are looking to hire C++ engineers across the entire company so please check out our open roles! [link] 
+
+Check out this video of our car driving fully autonomously through SF!
+ [link]
+
+### 15601992-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (November 2017)
+Excerpt:
+We are looking to hire across the entire company so please check out our open roles! [link] 
+
+Check out this video of our car driving fully autonomously through SF! 
+ [link]
+
+### 15824797-KSRPmng1cmA
+Thread: Ask HN: Who is hiring? (December 2017)
+Excerpt:
+Check out this video of our car driving fully autonomously through SF!
+
+ [link]
+
+### 16626154-KSRPmng1cmA
+Thread: Police Say Uber Is Likely Not at Fault for Self-Driving Car Fatality in Arizona
+Excerpt:
+Modern dashcams have very good low light capability. Here's a cruise self driving video at night.
+
+ [link]
+
+### 24211125-YbYWhdLO43Q
+Thread: Ask HN: Why is Reddit on mobile so obsessed with making me use their app?
+Excerpt:
+For those wondering what "Squatty Potty" is, the company that makes it has a video that explains it well, featuring a pooping unicorn: [link]
+
+### 38091493-_PoDhuIp3I0
+Thread: Penn and Teller's Lab Scam [video] (1990)
+Excerpt:
+One of my favorite Penn and Teller routines is "Lift Off of Love" - [link] - The first act is a variant of the old sawing a woman in half trick. The second act is the same trick again, but with clear boxes.
+
+### 14862998-L0KuAx1COEk
+Thread: Google and a nuclear fusion company have developed a new algorithm
+Excerpt:
+A 50% increase could be much much more significant depending on the parameter optimised. Tokamak magnetic field strength for example has a factor ^4 effect towards net energy.
+
+Have a look at [link] , as previously discussed here: [link] .
+
+### 14578325-LO1mTELoj6o
+Thread: Ask HN: Do you plan your next day ahead? (comment links 2 YouTube videos)
+Excerpt:
+I have most recently been trying to plan out at least 6 months ahead. How I am approaching this was inspired by some life events and some videos I had seen on Youtube.
+
+I really liked this video by Scott Hanselmann ( [link] ) about scaling yourself and I liked this video that came out recently ( [link] ) about behaviours that maximize your misery.
+
+### 15202484-LO1mTELoj6o
+Thread: The Equifax breach may be the worst leak of personal info ever (comment links 3 YouTube videos)
+Excerpt:
+Somewhat different, is the Hello Internet [2] podcast, which is by Grey and Brady Haran who you might know from the Numberphile [link] channel [3]. It's basically the 2 of them chatting about random stuff, but I find it very entertaining.
+
+[0] [link]
+
+### 16483425-iphcyNWFD10
+Thread: Most images of black holes are illustrations. Here’s what our telescopes capture
+Excerpt:
+My favorite video about observing black holes: [link]
+
+### 18075791-RdAkY7RfajY
+Thread: 'Super Mario Bros.' speedrunner hits nearly inhuman 4:55 world record
+Excerpt:
+I came here to paste the link to Summoning Salt, and an upvote alone isn't enough to emphasize how much I recommend his channel. Here's the link to his retrospective on Super Mario Bros specifically (now a bit out of date, of course): [link]
+
+### 22495919-bg6-LVCHmGM
+Thread: Glibc malloc inefficiency (2016)
+Excerpt:
+[1]: [link] 
+
+[2]: [link]
+
+### 14407703-AV9iah71iPQ
+Thread: Chasing the Harvest: ‘If You Want to Die, Stay at the Ranch’ (comment links 2 YouTube videos)
+Excerpt:
+[link] 
+
+It's an unflinching movie that captures the beauty of the landscape, the desperation of the herders, and a sense of place and belonging. It also includes the most heartfelt swearing scene I've ever seen: [link] . It's probably best to start with the official trailer, though, to give some context: [link] .
+
+### 14388582-uNjxe8ShM-8
+Thread: On the Turing Completeness of MS PowerPoint [pdf]
+Excerpt:
+The video accompanying this paper (recommend watching for a good laugh): [link]
+
+### 16383165-uNjxe8ShM-8
+Thread: Age of Empires 2 Scenario Editor Is Turing Complete
+Excerpt:
+I can only think of one of the greatest videos[0] on Youtube when I read about unusual Turing complete systems.
+
+[0] [link]
+
+### 16360060-uNjxe8ShM-8
+Thread: Lessons from Optics, the Other Deep Learning
+Excerpt:
+The former paper appeared in SIBVOIK 2017 ( [link] ), where you can find other such papers. My personal favorites are "On The Turing Completeness of PowerPoint" ( [link] ) and "Automated Distributed Execution of LLVM code using SQL JIT Compilation"
+
+### 30426048-uNjxe8ShM-8
+Thread: A functioning Turing Machine using Notepad++ and its find/replace regex engine
+Excerpt:
+Still one of my favorites: On The Turing Completeness of PowerPoint, [link]
+
+### 18004148-049NnoR1LGE
+Thread: Ask HN: Favorite teachers on YouTube?
+Excerpt:
+I watch him more for entertainment, his videos were for long time my favourite videos on [link] bar none. But he is a grandmaster, it's solid chess content. He's as much comedian as chess lecturer, or he was, he's toned down the constant stream of crazy jokes in the last couple of years. He's recently started his own chess centre in Atlanta, his new lectures are appearing here: [link] 
+
+He started as occasional lecturer at St Louis, where he made dozens and dozens of great, super-silly videos. [link]
+
+### 14378171-gWv_vUgbmug
+Thread: So You Want to Write Your Own Language (2014)
+Excerpt:
+For anyone who hasn't yet seen it, check out Jonathan Blow's Jai language, it is fantastic!
+
+ [link]
+
+### 20573773-LA_DrBwkiJA
+Thread: Survival in chessland [pdf]
+Excerpt:
+He's a mad genius! I like his compiler that generates executables made up only of printable characters: [link] / [link]
+
+### 35123528-LA_DrBwkiJA
+Thread: Ask HN: What are some of the most interesting YouTube channels to follow?
+Excerpt:
+Numberphile
+
+Suckerpinch (all time favourite: [link] )
+
+### 35789456-LA_DrBwkiJA
+Thread: GradIEEEnt half decent
+Excerpt:
+Not only that but they are highly entertaining.
+
+This one is probably my all time favorite:
+ [link]
+
+### 34327015-HSxSgbNQi-g
+Thread: Crisis over The Atlantic: The near crash of Air Transat flight 236
+Excerpt:
+I recommend the Wendover Productions Youtube video on ETOPS:
+
+ [link]
+
+### 14633607-I8Xc2_FtpHI
+Thread: Popular People Live Longer
+Excerpt:
+I'd recommend watching this playlist:
+ [link]
+
+### 36847701-8TjGAWxL23c
+Thread: Poisons and Perils on the Salton Sea (comment links 2 YouTube videos)
+Excerpt:
+The similarly named Plagues & Pleasures on the Salton Sea is one of my favourite documentaries of all time, I find it so fascinating: [link]
+
+### 15066122-p-iiEDtpy6I
+Thread: How JavaScript works: inside the V8 engine (comment links 3 YouTube videos)
+Excerpt:
+If you're into V8 internals, I'd recommend watching these talks by Franzsika Hinkelmann, a V8 engineer at Google: [link] , [link] and [link]
+
+### 14595424-FzcTgrxMzZk
+Thread: Close-Up View of DNA Replication (comment links 2 YouTube videos)
+Excerpt:
+If you liked this video, also check out this one:
+
+Inner Life of the Cell 
+ [link]
+
+### 14578325-FS1mnISoG7U
+Thread: Ask HN: Do you plan your next day ahead? (comment links 2 YouTube videos)
+Excerpt:
+I have most recently been trying to plan out at least 6 months ahead. How I am approaching this was inspired by some life events and some videos I had seen on Youtube.
+
+I really liked this video by Scott Hanselmann ( [link] ) about scaling yourself and I liked this video that came out recently ( [link] ) about behaviours that maximize your misery.
+
+### 15492887-f_4Q9Iv7_Ao
+Thread: Scientists narrow down the mechanism whereby cancer cells metabolise sugar
+Excerpt:
+[link]
+
+### 15738777-f_4Q9Iv7_Ao
+Thread: How to get enough protein without meat (comment links 2 YouTube videos)
+Excerpt:
+Take a look at these videos (or any other of that channel, I'm not affiliated but happens to explain a lot of things I've learned myself), or read the sources in the description.
+
+ [link]
+
+### 11501145-ezohqY-vg4s
+Thread: Famous Photo of Chernobyl's Most Radioactive Material Was a Selfie
+Excerpt:
+Things that still haunt me: the helicopter pilots who put the initial fires out flew in 120-180C temperatures and pretty much all died of radiation. And the sequence that starts about here:
+
+ [link]
+
+### 17530639-MzHLAqyO7PQ
+Thread: Ask HN: Have you tried Ketogenic diet? Can you share your experience / advice?
+Excerpt:
+For a balanced perspective check out Mic the Vegan's take on it: [link]
+
+### 16343047-gB9n2gHsHN4
+Thread: The special data device SpaceX’s Falcon Heavy sent to orbit is just the start
+Excerpt:
+, especially with the idea that it is somehow "like" ours but just slightly different, is just a common scifi trope that is gibberish in real terms. I'd say that if one's concept of dimension isn't, as I said, "dreadfully mundane", it's not set up correctly. It's really a boring term; all the ways in which sci-fi makes it sound exciting or mysterious are not part of the real term.
+
+If you'd like to recover some of the sense of wonder associated with the term, I'd recommend learning about what it means to have a fractional dimension, in real mathematics: [link]
+
+### 30127060-nNMNglk_CvE
+Thread: Reasons for servers to support IPv6
+Excerpt:
+For example see the video "T-Mobile’s path to IPv6 Only":
+
+* [link]
+
+### 14482078-KpDyuMIb_E0
+Thread: Rosette – A solver-aided programming language that extends Racket
+Excerpt:
+[0]: [link] 
+
+[1]: [link]
+
+### 15017130-SMEOKDVXlUo
+Thread: Blockchain could fix a key problem in China’s food industry
+Excerpt:
+This sound like just another case of misunderstanding the core technology. I can recommend watching: [link]
+
+### 28759347-WOHPuY88Ry4
+Thread: Is 40 the New 60?
+Excerpt:
+I call it "the Boy Named Sue" problem[0]. I have had to deal with so damn much adversity, in my career, that it has forced me to constantly deliver, and go "above and beyond," in everything I've done. I've looked up a lot of noses, and it does make me cranky, but it has also forced me to be pretty good at what I do. No one will take me at my word. I have to show them.
+
+[0] [link]
+
+### 23464059-wJyUtbn0O5Y
+Thread: Reminder of Complexity
+Excerpt:
+This video blew me away:
+
+ [link]
+
+### 39863990-wJyUtbn0O5Y
+Thread: Is the Sun Conscious? (2021) [pdf] (comment links 2 YouTube videos)
+Excerpt:
+Take a look at these videos:
+
+ [link]
+
+### 15142195-bBC-nXj3Ng4
+Thread: A Guide to Crypto Currencies
+Excerpt:
+For a quick video intro I recommend this video from 3Blue1Brown ("[link] mathematician") [link]
+
+### 15402958-bBC-nXj3Ng4
+Thread: Ask HN: Resources to learn blockchain and smart contracts?
+Excerpt:
+As a quick and visual introduction, I would recommend the great "Ever wonder how Bitcoin (and other cryptocurrencies) actually work?" [link] video from 3Blue1Brown
+ [link]
+
+### 17297041-bBC-nXj3Ng4
+Thread: How I became Leonardo da Vinci on the Blockchain
+Excerpt:
+This video does a very good job explaining what exact problems you would face if you tried to create a decentralized payment system and how bitcoin solved these problems. [link]
+
+### 29157107-bBC-nXj3Ng4
+Thread: Blockchain 101: The Simplest Guide You Will Ever Read
+Excerpt:
+I really liked this video by 3Blue1Brown explaining how blockchain works: [link]
+
+### 32182957-bBC-nXj3Ng4
+Thread: Blockchain.com cuts 25% workforce amid crypto bear market
+Excerpt:
+>If the majority of miners agree to it then the rest of the network either goes along with it, or they're forced to do a hard fork themselves.
+
+The only the hashrate attacks can do is alter the order of transactions (for example allowing them to replace their past transactions and double-spend). They cannot change the way in which users interpret blocks (for example, they cannot spend another user's outputs, change the value of a given output such as a coinbase output, or otherwise alter the tokenomics). I recommend watching 3blue1brown's video: [link]
+
+### 32895080-bBC-nXj3Ng4
+Thread: Bitcoin is not a store of value
+Excerpt:
+They do this by selecting the chain with the highest amount of PoW associated with it. If the network hashrate is low relative to an attacker, then any attacker will be able to easily overpower the network and decide which chains are invalid.
+
+If you are new, I recommend this video on bitcoin's design: [link]
+
+### 25965265-bRcu-ysocX4
+Thread: 'Sea Prison': Covid-19 has left hundreds of thousands of seafarers stranded
+Excerpt:
+Wow haha, only on HN would I read a sea peoples joke. Did you also watch that informative YouTube lecture [0] or did you find out about them elsewhere?
+
+[0] [link]
+
+### 15716940-GvtNyOzGogc
+Thread: The FCC has repealed a 42-year-old rule blocking broadcast media mergers
+Excerpt:
+Sinclair requires its TV stations to air segments with a conservative bent: [link] 
+
+Edit: Check out John Oliver's segment on this topic. [link]
+
+### 14704155-K92rOsjyLBs
+Thread: I'm not a Woman in Tech
+Excerpt:
+Jonathan Haidt's thoughts on the matter are also quite enlightening, and he also describes a theory of how this culture came about:
+
+ [link] 
+(Safe Spaces — Sam Harris and Jonathan Haidt on the Disturbing Trend of Vindictive Protectiveness )
+
+### 14700325-aAIGVT3N7B0
+Thread: The Brain as Computer: Bad at Math, Good at Everything Else
+Excerpt:
+It'll be interesting to see what changes occur in the human brain as we develop neural-computer interfaces. The human brain appears to be very good at performing instantaneous approximate calculations (catching or dodging a thrown ball).
+Interestingly, humans don't appear to be as good at memorising sequences as monkeys (1). It'll be awesome if someday we can see the difference between how the monkey and human brain behaves while carrying out this task.
+
+1. [link]
+
+### 36542668-KW0eUrUiyxo
+Thread: YouTube is testing a more aggressive approach against ad blockers
+Excerpt:
+This obviously fluctuates substantially: if you produce videos that are viewed by prime demographics advertisers are more interested in, you tend to make more. YouTube also has better individual deals signed with their topmost creators, giving them a better revenue split or a different advertiser pool that’s willing to pay more for the most popular YouTubers. Shorts and livestreams also work a bit differently, but that’s too complicated to get into here.
+
+CGP Grey has a great video on how YouTube ads work: [link]
+
+### 17790026-pi7h6nmkvAM
+Thread: Artificial Intelligence Still Isn’t All That Smart
+Excerpt:
+> But if myself and fellow computer users did have access to efficient powerful computers, we'd probably want to write algorithms that allowed us to make many attempts at the solution per second. I'd imagine writing a simulator to project many agents into where they are competing for resources and many of these simulations taking place concurrently.
+
+I recommend you look at David Krateneur's ideas, he has a video called "The Stupid Ways That We Have Thought About Intelligence". [link]
+
+### 19174662-yJmL9hRrpIQ
+Thread: What are the biggest threats to humanity? (comment links 3 YouTube videos)
+Excerpt:
+I would also recommend reading Alex Epstein's book The moral case for fossil fuel: he offers another way to think about this problem which is also what I am trying to get across. The climate debate we are having is mostly political and thus about priorities rather than about science.
+
+ [link]
+
+### 43356510-Iq9DzN6mvYA
+Thread: Statistical Formulas for Programmers (2013) (comment links 2 YouTube videos)
+Excerpt:
+I recommend watching these two YouTube videos. The presenters advocate using simulation/bootstrapping/shuffling methods instead of memorizing formulas.
+
+Jake Vanderplas - Statistics for Hackers
+ [link]
+
+### 16932771-osSMJRyxG0k
+Thread: AMD's Stock Price Jumps on News of Earnings Spurred by Ryzen
+Excerpt:
+That's a long spawn of time.
+
+To understand why Intel kept selling CPUs like pancakes despite this, check this out: [link]
+
+### 15152431-_Cp-BGQfpHQ
+Thread: Juicero Is Shutting Down (comment links 3 YouTube videos)
+Excerpt:
+edit: also this... enthusiastic gentleman, who is pretty enthusiastic about the contents of the bag[3]
+
+[1]: [link]
+
+### 15152362-_Cp-BGQfpHQ
+Thread: Juicero Is Shutting Down
+Excerpt:
+This video is one of my favorites
+
+ [link]
+
+### 21251951-_Cp-BGQfpHQ
+Thread: The collapse of Dyson's electric car dream
+Excerpt:
+His Juicero teardown is also gold: [link]
+
+### 27204100-_Cp-BGQfpHQ
+Thread: Ask HN: What's the most outrageous over-engineering you've seen in the wild?
+Excerpt:
+The Juicero juice machine. Check out a tear down that AvE did.
+
+ [link]
+
+### 27355071-_Cp-BGQfpHQ
+Thread: Overkill objects for everyday life
+Excerpt:
+He's a private dude, but I think his wife is french-canadian and he's at least bilingual. And from what I've gathered he has to have done some kind of mechanical engineering for a LONG time. Dude knows his stuff about anything mechanical.
+
+His teardown of the Juicero is pure gold: [link]
+
+### 14412894-_Cp-BGQfpHQ
+Thread: Show HN: FreshTube – show latest videos from YouTube channels
+Excerpt:
+Thanks for this feed example. Found this gem in there.
+
+A beautiful technical / engineering take on why Juicero failed, after he takes apart a brand new Juicero => [link]
+
+### 19408327-AJ-auWfJTts
+Thread: How Designers Engineer Luck Into Video Games (2017) (comment links 2 YouTube videos)
+Excerpt:
+You might enjoy these videos as well:
+
+ [link]
+
+### 15152431-5lutHF5HhVA
+Thread: Juicero Is Shutting Down (comment links 3 YouTube videos)
+Excerpt:
+[1]: [link] 
+
+[2]: [link]
+
+### 15579299-KqFNbCcyFkk
+Thread: When did the golden age of The Simpsons end?
+Excerpt:
+My favorite take on "The Decline and Fall of the Simpsons Empire":
+
+The Fall of the Simpsons [link]
+
+### 47063627-KqFNbCcyFkk
+Thread: After 800 episodes, 'The Simpsons' creators look back and ahead
+Excerpt:
+Personally, the only show that was also focused on sharp and witty was _Futurama_. That show was able to retain it better through out the years. Every series finally episode was a masterpiece.
+
+[0] [link]
+
+### 15504655-_160oMzblY8
+Thread: Blockchains explained visually (part 1 of 2)
+Excerpt:
+My favorite: [link]
+
+### 45260372-_160oMzblY8
+Thread: Show HN: Demochain, a toy blockchain network that runs on the browser (comment links 2 YouTube videos)
+Excerpt:
+Great looking tool, thanks. Looking through your "Futures" on the README I do think ... "Add videos demonstrating common concepts and attacks (such as race attack, finney attack etc)." ... would certainly make it accessible to a wider audience which, given the amount of effort you've put in, seems like a good idea.
+
+Something like these two videos, only based on your tool, would be very good - to [link] (Part 1), [link] (Part 2) .
+
+### 20213370-Pb5oIIPO62g
+Thread: Ask HN: How would you teach teens to code in 2019? (comment links 5 YouTube videos)
+Excerpt:
+Step 1) Buy a lot of paper. Too many ideas, concepts, and problems in programming are really really big and we have no idea how to effectively tackle them. Being able to take notes, write down your thoughts, create diagrams and pictures, etc is invaluable in being able to learn. Being able to go back and checkout your thoughts in the past helps a lot.
+
+Step 2) You'll want to check out these videos and pass them along as you feel they are appropriate:
+John Cleese on creativity: [link]
+
+### 24544313-Pb5oIIPO62g
+Thread: John Cleese Discusses Creativity, Monty Python, and Artichokes
+Excerpt:
+Obligatory link to an excellent John Cleese talk "John Cleese on Creativity In Management": [link]
+
+### 49305085-Pb5oIIPO62g
+Thread: Soup Raiders goes native: What you gain by building your own game engine (comment links 2 YouTube videos)
+Excerpt:
+I think that's basically what John Cleese was getting at with the Open/Closed Mode thing:
+
+ [link]
+
+### 15102655-Ao9iOeK_jvU
+Thread: Mental processes of chess masters revealed how people become experts (2016) [pdf]
+Excerpt:
+If you want to improve this chess, I recommend this playlist by International Master John Bartholomew:
+
+ [link]
+
+### 41572299-jxMMtIxDrGk
+Thread: The Lego Great Ball Contraption (comment links 2 YouTube videos)
+Excerpt:
+[link]
+
+### 43985557-bkQJdaGGVM8
+Thread: What is HDR, anyway? (comment links 2 YouTube videos)
+Excerpt:
+It didn't take very long to learn, and it turned out to be extremely important in the work I did during the early days at Waymo and later at Motional.
+
+I wanted to pass along this fun video from several years ago that discusses HDR: [link] . It's short and fun, I recommend it to all HN readers.
+
+### 42727589-2u6HTG8LuXQ
+Thread: Nintendo announces the Switch 2 [video]
+Excerpt:
+It's how they can keep putting out essentially the same games but are completely different.
+
+1. [link]
+
+### 22225132-kmFOBoy2MZ8
+Thread: James Lovelock: 'I Would Not Waste My Fortune on Colonizing Mars'
+Excerpt:
+But yes, Mars would be a mega project. Isaac Arthur does great stuff on Youtube which gives an idea of the magnitude of the works necessary.
+
+ [link]
+
+### 15036256-baFaEvBywGc
+Thread: Concrete-free washing machines are lighter to transport, just as good in a spin
+Excerpt:
+Yeah, check out Secret Life Of Machines 104 The Washing Machine [link]
+
+### 19902334-86JAU3w9mB8
+Thread: The sci-fi cities of Bezos’s Blue Origin derive from his teacher Gerard O’Neill
+Excerpt:
+Issac Arthur has covered more modern near-future rotating habitat designs: (As well as much larger, further future designs.)
+
+ [link]
+
+### 18833360-AnrBQEAM3rE
+Thread: Learning China’s Forbidden History, So They Can Censor It
+Excerpt:
+Problem is, if you look at whose interests are actually represented in our politics it's nothing but a pacifying fiction. His "alternate model" describes how the society actually functions, and... well... why spoil the video? :D
+
+[1] [link]
+
+### 35782669-AnrlSqtpOkw
+Thread: Mercury OS
+Excerpt:
+I love that this concept tries to separate content from apps. Ever since I saw some of the ways early GUIs differed from today's, I've had a feeling that we've lost something with the way apps in today's desktops are completely isolated from each other. The Alto let you compose data live from multiple windows kind of like a shell pipeline does for command-line apps: [link]
+
+### 16750794-8qh6jRzjmcY
+Thread: The History of Video Synthesizers
+Excerpt:
+My favorite is Dan Sandin's analogue video synth, from U of I Chicago circa 1971: [link]
+
+### 15774521-3Knn7ZH4Tiw
+Thread: A growing number of young Americans are leaving desk jobs to farm
+Excerpt:
+If you’re interested in a recipe for running a profitable, small farm I recommend the book The Market Gardener by Jean-Martin Fortier.
+
+There are a lot of other examples around of similar farmers, e.g Curtis Stone, Ridgedale Permaculture ( [link] )
+
+### 15271465-zCLCIw-HSJc
+Thread: Here I Stand, at Age 80
+Excerpt:
+Thanks for posting this. For those interested, I would also recommend Howard Rheingold's video "Ted Nelson and Doug Engelbart come to dinner" - [link]
+
+### 26720175-zcqZHYo7ONs
+Thread: OPhysics: Interactive Physics Simulations (comment links 2 YouTube videos)
+Excerpt:
+Either way, this site is really good. Unfortunately the first thing I tried to replicate didn't work because they haven't taken quantum effects into account.
+
+Here is a video about the effect with 3 polarized lenses - it sounds crazy enough I want to add a bit of proof to avoid downvotes: [link]
+
+### 39380936-zcqZHYo7ONs
+Thread: Inside the proton, the ‘most complicated thing you could possibly imagine’
+Excerpt:
+I really enjoyed this Minute Physics and 3Blue1Brown video describing hidden variables and Bell's theorem: [link]
+
+### 20848610-3s7h2MHQtxc
+Thread: The Human Brain Can Create Structures in Up to 11 Dimensions
+Excerpt:
+That sounds like it would be very interesting. And while we can't extend our senses just yet, we may be able to swap them. I'm very curious if anyone has tried to use a space-filling Hilbert curve to transform vision into audio and let their brain adjust to it like suggested in this video [link]
+
+### 15198605-4YYvBLAF4T8
+Thread: Evan Doorbell's Classic Phreaking Tapes (comment links 3 YouTube videos)
+Excerpt:
+There's a pretty good chance in many cases you can just open the external box with some easy to get (and relatively standard) key. And hit a button. Related: [link] 
+
+This is a good related talk - goes outside the box on all the ways you can often get into commercial buildings without picking (or even in many cases, interacting with) the lock
+"The Search for the Perfect Door" by Deviant Ollam
+ [link]
+
+### 18217891-4YYvBLAF4T8
+Thread: Ask HN: What are some of the best technical talks you've heard?
+Excerpt:
+I hope this isn't too much of a stretch. Heard it recently and thought it was really interesting.
+
+ [link]
+
+### 15198605-a9b9IYqsb_U
+Thread: Evan Doorbell's Classic Phreaking Tapes (comment links 3 YouTube videos)
+Excerpt:
+This is a good related talk - goes outside the box on all the ways you can often get into commercial buildings without picking (or even in many cases, interacting with) the lock
+"The Search for the Perfect Door" by Deviant Ollam
+ [link] 
+
+Also good:
+ [link] [Howard Payne & Deviant Ollam - This Key is Your Key, This Key is My Key]
+ [link] [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse]
+
+### 18515096-a9b9IYqsb_U
+Thread: An elevator in a Chicago skyscraper fell 84 floors, requiring a dramatic rescue
+Excerpt:
+I've watched it twice before. I also recommend "This key is your key, this key is my key"
+
+ [link]
+
+### 15167702-6G59zsjM2UI
+Thread: The Vacuity of Postmodernist Methodology (2005) [pdf]
+Excerpt:
+Found this interesting after recently listening to a lot of Jordan Peterson talks - especially the latest Joe Rogan Experience episode #1006 [link]
+
+### 19933791-XKu_SEDAykw
+Thread: I turned my interview task for Google into a startup
+Excerpt:
+some people getting nervous, and not being very good 'on the spot' (to which I would encourage giving time to think about it), you can learn quite a lot about people in these scenarios. It's an opportunity for people to think about a problem in different ways, to apply some of their niche knowledge, and importantly to see if they can come up with a very crude, ballpark answer to a fairly ambiguous situation. This might be more apt to consultancy types of situations, but I think there's value in software as well, given the right kinds of questions.
+
+[1] [link]
+
+### 22035059-lyDLAutA88s
+Thread: Ask HN: What tools do you use for data munging and merging?
+Excerpt:
+Want to spit out tabular data? Tabulate [link] 
+
+Want to figure out where not to eat in chicago? built-ins: counter, defaultdict, comprehensions: [link]
+
+### 23438524-zt0OQb1DBko
+Thread: Why the developers who use Rust love it so much
+Excerpt:
+- [link] 
+
+- [link]
+
+### 30943929-i7kh8pNRWOo
+Thread: Thoughts on the Witness (2016)
+Excerpt:
+• The Witness is a game about learning and perception. And about meditation. (That's only my interpretation, though; like any work of art, you may have another valid interpretation).
+
+• The author, Jonathan Blow, is a "programmer's programmer", who built his own game engine for The Witness and is in the process of writing his own programming language for his next project. He's also an interesting speaker. Here he talks about depression: [link]
+
+### 40023495-zwAD6dRSVyI
+Thread: Identical twins both grew up with autism, but took different paths
+Excerpt:
+[link] 3Blue1Brown on visualizing higher dimensions explains it well
+
+### 29974997-zwAD6dRSVyI
+Thread: A high-dimensional sphere spilling out of a high-dimensional cube
+Excerpt:
+I like this video on the topic: [link]
+
+### 23107920-rzQEIRRJ2T0
+Thread: Making Emacs Popular Again
+Excerpt:
+I cannot possibly encourage you more to check out magit. It is unbelievably good. I always share this demo with people to show off just a tiny portion of what it's capable of doing
+
+ [link]
+
+### 16311920-yCcWpzY8dIA
+Thread: Automerge: JSON-like data structure for building collaborative apps
+Excerpt:
+- Why CRDTs are better than centralized alternatives like PAXOS/RAFT: [link] 
+
+Martin Kleppmann's work (author of Automerge) is outstanding, especially check out: [link]
+
+### 17750530-6Chp12sEnWk
+Thread: Ask HN: Recommendations of good cybercrime novels?
+Excerpt:
+Not a novel, but super interesting story about how the Feds caught Russian Mega-Carder Roman Seleznev: [link]
+
+### 29232996-r3snVCRo_bI
+Thread: YouTube takes down independent court livestreams
+Excerpt:
+It's worth noting that I'm loosely parroting the content of a Folding Ideas video[1] that covers the discussion of the creator vs platform relationship overall.
+
+[1] [link]
+
+### 23479125-nJPERZDfyWc
+Thread: Radio Garden – Explore live radio by rotating the globe
+Excerpt:
+A wonderful video exploring this: Everything is a Remix
+
+ [link]
+
+### 41039329-nJPERZDfyWc
+Thread: Copying is the way design works (2020)
+Excerpt:
+The video (if I recall correctly) goes a bit further, attacking patents/IP law as anti-creative.
+
+[0]: [link]
+
+### 49883504-nJPERZDfyWc
+Thread: What heraldry and Japanese mon can teach about visual-identity generators (comment links 2 YouTube videos)
+Excerpt:
+Also, someone generally pops up in these discussions about "how this is not being creative" etc. To that I point people to the Everything Is A Remix series:
+
+- [link] (2016)
+
+### 15661856-mPqWstVnRjQ
+Thread: A fungus with over 20k sexes
+Excerpt:
+OT: The Joe Rogan podcast recently had Paul Stamets on who talks at great length about fungi and it's benefits -- truly fascinating stuff.
+
+ [link]
+
+### 16863194-mPqWstVnRjQ
+Thread: Mylo: A leather-like material made from mycelium
+Excerpt:
+I found the conversation between Paul Stamets and Joe Rogan to be super interesting: [link] . Never really thought much about mushrooms until that episode. This proof of concept seems like a great taste of how much untapped potential fungi have for changing everyday life if we invest more into its research.
+
+### 18073416-mPqWstVnRjQ
+Thread: Ask HN: What podcasts do you listen to regularly? (comment links 6 YouTube videos)
+Excerpt:
+[3] [link] 
+
+[4] [link]
+
+### 20342884-mPqWstVnRjQ
+Thread: Radiotrophic fungus
+Excerpt:
+If you're interested in funghi, I recommend Joe Rogans podcast with Paul Stamets, funghi seem to be able to do many things: [link]
+
+### 15629609-CaPgDQkmqqM
+Thread: Google’s fired engineer: James Damore’s claim against search giant revealed
+Excerpt:
+For a much better explanation of how this works - and why it's a trap which educated, well meaning, politically-interested people seem to be particularly vulnerable - see this short video essay:
+
+ [link]
+
+### 23085192-aircAruvnKk
+Thread: Humans Not Invited (comment links 2 YouTube videos)
+Excerpt:
+If you want an extensive answer, I recommend the neural network playlist on 3Blue1Brown: [link]
+
+### 40225532-aircAruvnKk
+Thread: Better and Faster Large Language Models via Multi-Token Prediction
+Excerpt:
+As an outsider but avid reader of this stuff linked from HN, I would recommend the channel 3blue1brown. He's got several NN and AI related videos, and the couple I've seen were pretty good.
+
+ [link]
+
+### 15527266-2V1FtfBDsLU
+Thread: Why I'm Productive in Clojure (2013)
+Excerpt:
+The recent keynote by Rich Hickey covers a lot of these points (and far better than me):
+
+ [link]
+
+### 18219401-2V1FtfBDsLU
+Thread: Ask HN: What are some of the best technical talks you've heard?
+Excerpt:
+This recent review "10 years of Clojure", encapsulates a lot of of the wisdom:
+
+ [link]
+
+### 31882498-2V1FtfBDsLU
+Thread: Revisiting the principles of data-oriented programming (comment links 2 YouTube videos)
+Excerpt:
+Rich Hickey's talks "Simple Made Easy" [1] and "Effective Programs" [2] provide a better explanation of these ideas IMO. The specific definition of "simple" is pretty crucial.
+
+[1] [link] 
+[2] [link]
+
+### 24849302-IeSu_odkI5I
+Thread: Attempts to make Python fast (comment links 2 YouTube videos)
+Excerpt:
+I found the following talks by Armin Romacher very informative on these topics (C API, why python is more difficult to speed up than JS).
+
+ [link] 
+ [link]
+
+### 15548818-C25qzDhGLx8
+Thread: Anti-aging stem cell treatment proves successful in early human trials
+Excerpt:
+Well, on the anti-death side: [link]
+
+### 50170148-bL6hp8BKB24
+Thread: Steam Users Beg for "No AI" Filter as Vibecoders Flood Next Fest
+Excerpt:
+Here's an 11 year old video trying to educate people who think they "hate CGI" just how much CGI they've been watching, just without realizing it, because it was actually quite good: [link]
+
+### 17391688-vuIlsN32WaE
+Thread: Losing 100 pounds in 276 days
+Excerpt:
+I wonder then what did you tell yourself? How many times did you have a bad day? What was your mood like throughout? I'd love to know so much more about the psychology. Great article though and thanks again for sharing!
+
+* [link]
+
+### 30278119-LKp2gikIkD8
+Thread: The dangers of high status, low wage jobs
+Excerpt:
+dit for virtual goods reddit wholly owns (e.g. reddit gold), considering how people farm karma, a meaningless virtual number, I can only see more perverse incentives being created for those running repost bots.
+
+Edit: Much has been said about the state of Youtube monetization over the years and how infuriatingly often that yellow "limited/no ads" icon appears for seemingly no reason, about the drop in payouts, abuse of copyright claims, and how some people take advantage of the system (see: Dan Olson's video "Weird Kids' Videos and Gaming the Algorithm" [link] ). But despite all this, I think 
+
+### 16047624-KrksBdWcZgQ
+Thread: Ask HN: What’s your favorite talk from 2017? (comment links 2 YouTube videos)
+Excerpt:
+- DEF CON 25 (2017) - Weaponizing Machine Learning [link] 
+
+- BlackHat 2017: Breaking the x86 Instruction Set [link]
+
+### 25101656-NH1Tta7purM
+Thread: Ask HN: Am I too late for the “Data Science” wave?
+Excerpt:
+You might i.e. check out talks like [0].
+
+[0] [link]
+
+### 32315441-NH1Tta7purM
+Thread: Understanding Jane Street
+Excerpt:
+I find this stuff fascinating, and this article is way above average for online posts about proprietary/algorithmic/quantitative/low-latency trading (very leaky Venn diagram there). I have a few nitpicks but overall it's informative and it's an interesting format: viewing an industry through the lens of a particular firm, especially one as fascinating as Jane. Anything that develops literacy in modern finance amongst the lay public is a good thing in my book.
+
+If this stuff floats your boat I'd also recommend any of Carl Cook's talks, e.g. [link] . Optiver is AFAIK in a somewhat different busi
+
+### 19945104-HipTO_7mUOw
+Thread: Microbots Are on Their Way
+Excerpt:
+I really like the slaughterbots: [link]
+
+### 27876309-HipTO_7mUOw
+Thread: Don’t Let Police Arm Autonomous or Remote-Controlled Robots and Drones
+Excerpt:
+I like this example, the Slaughterbots: [link]
+
+### 15690939-ks5lgcCFvvE
+Thread: The science of Destiny 2's 'uniquely complicated' netcode
+Excerpt:
+Very good analysis of this here.
+
+ [link]
+
+### 15929594-HKQDSgBHPfY
+Thread: New Model Warns About Crispr Gene Drives in the Wild
+Excerpt:
+John Sotos, Chief Medical Officer of Intel covered the dangers of this technology quite well at DEF CON 25. If you've not seen his talk, watch it now, it's in my top ten of the best talks I've been to in the eleven years I've been going to DEF CON:
+
+ [link]
+
+### 19590762-HKQDSgBHPfY
+Thread: FamilyTreeDNA: It’s Our ‘Moral Responsibility’ to Give FBI Access to Your DNA
+Excerpt:
+This is my favorite argument against sharing DNA information (from Defcon 25):
+
+ [link]
+
+### 13021537-dSqLt8BgbRQ
+Thread: Show HN: GitPlex – A new Git repo management server with code review
+Excerpt:
+I recommend you watch this:
+
+ [link]
+
+### 15991762-6r04gfWfRkE
+Thread: Bitcoin, I've Been Here Before
+Excerpt:
+[link] 
+
+[2] [link]
+
+### 15964800-6r04gfWfRkE
+Thread: How the Winklevoss Twins Found Vindication in a Bitcoin Fortune
+Excerpt:
+[link] 
+
+[2] [link]
+
+### 15928317-0yKf8TrLUOw
+Thread: Excel team considering Python as scripting language: asking for feedback
+Excerpt:
+Excel itself is functional and reactive already, wouldn't adding an FRP language on top of that be a bit superfluous? Check out Felienne Hermans' work if you haven't already:
+
+ [link]
+
+### 38877743-0yKf8TrLUOw
+Thread: CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler
+Excerpt:
+Related to this, I recommend Felienne Hermans' talks on Excel as a functional programming language - [link] .
+
+### 24834849-kaBte1cBi5U
+Thread: When You Get into Unschooling, It’s Almost Like a Religion
+Excerpt:
+Chric Crawford's argument[1] is that video games can provide the same sort of interactivity which makes 1-on-1 teaching so effective. I don't agree with this argument, but it's a very interesting one.
+
+1. [link]
+
+### 15909761-ZGIPmC6wi7E
+Thread: The Q Language
+Excerpt:
+His description of primality testing in that video is really quite good[1]. If it starts too slow, maybe that's a good place to start?
+
+[1]: [link]
+
+### 32354573-tISy7EJQPzI
+Thread: C23 is finished: Here is what is on the menu
+Excerpt:
+Every language has downsides/upsides and time. There is a nice quote by Titus Winters: “Engineering is programming integrated over time”[0], this helped me a lot in learning that context matter for tools/languages/frameworks, and you can learn with their mistakes.
+
+[0]: [link]
+
+### 18831498-SWEts0rlezA
+Thread: Ask HN: Go-to web stack today?
+Excerpt:
+I urgently encourage you and anyone else reading this to check out Turbolinks 5, ideally in tandem with Stimulus.
+
+ [link]
+
+### 19519293-SWEts0rlezA
+Thread: I Miss Rails
+Excerpt:
+I urge/beg you to check out the Turbolinks 5 + StimulusJS libraries, which are by the same (Rails team) people, which is no coincidence.
+
+ [link]
+
+### 33148622-DnPmg0R1M04
+Thread: Energy vs. Sovereign Bond Markets
+Excerpt:
+We could have UBI and most people working just a few hours per week, but that much freedom is dangerous. Politicians might loose power.
+
+More seriously, watch The Century of the Self (Adam Curtis), 
+ [link] 
+ [link] ,
+which describes the creation and rise of marketing as a social force in the 1900s; how the consumer-based society was created.
+
+### 16165768-AbASOcqc1Ss
+Thread: Sudden savant syndrome, in which exceptional abilities emerge after brain injury
+Excerpt:
+My favorite example of an 'ordinary' person who gained an extraordinary mental ability is Daniel Tammet. He learned Icelandic in a week. Spent 2 weeks and memorized pi to 22,000+ digits.
+
+ [link]
+
+### 22981369-bSkpMdDe4g4
+Thread: I translated a simple C program to x86_64 and it was slower (comment links 2 YouTube videos)
+Excerpt:
+Tangent, but this reminds me of this great talk by Matt Godbolt from CppCon 2017: “What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid”
+
+ [link] .
+
+### 22047881-vsMydMDi3rI
+Thread: Frank Abagnale on the death of the con artist and the rise of cybercrime
+Excerpt:
+Obligatory link [0] to his amazing talk at Google a while back.
+
+[0]: [link]
+
+### 28271176-eqQBubilSXU
+Thread: A DIY E-bike Conversion on the Cheap
+Excerpt:
+Have you ever seen videos of how invisible you look despite all the high viz stuff? In some cases it becomes urban camo. Take a look at this video, especially at 2:30 or so. It’ll show you just how little visibility you’ll have:
+
+ [link]
+
+### 17472824-9zinZmE3Ogk
+Thread: Ask HN: What talks or videos do you suggest to watch on a long flight?
+Excerpt:
+[link] 
+
+My favourite: [link]
+
+### 18629979-RmIgJ64z6Y4
+Thread: Facial recognition: It’s time for action
+Excerpt:
+ulation with a lot of emerging technologies right now. We're building systems with enormous power which can break human society if misused. I think the intangibility and "passivity" of this tech (or at least how it is perceived) gives us a very false sense of security. Like how a few decades ago very few average people could understand how the internet might have a great impact on society. Obviously they aren't thinking that way anymore.
+
+Check out Charles Stross's speech at C3 about regulatory lag relative to the the accelerated nature of tech growth:
+ [link]
+
+### 16280220-VscdPA6sUkc
+Thread: Diablo creator David Brevik is back with a new game: It Lurks Below
+Excerpt:
+I loved his Diablo postmortem:
+
+ [link]
+
+### 17340611-VscdPA6sUkc
+Thread: Diablo devolved – magic behind the 1996 computer game
+Excerpt:
+I love the idea that it was originally a dungeon crawl inspired by X-COM and would love to play one of the early builds before they changed to real-time combat.
+
+[0]: [link]
+
+### 26202781-VscdPA6sUkc
+Thread: Diablo II: Resurrected
+Excerpt:
+ught, but I'd assume 20 year old 3D models wouldn't be much use today, would they?
+
+I know they were thinking about making D2 a 3D game at first, like Runescape, but then went with 2D, because 3D technology wasn't at a point that allowed them to carry over the gritty and dark theme they wanted for Diablo. And then went on to make D3 look as cartoony as it does... They used photos of clay figurines for Diablo 1, would be fun if they remade that with 3D scanning techniques. Do check out David Brevik's post mortem on D1 from GDC by the way, it's fantastic: [link]
+
+### 36349271-VscdPA6sUkc
+Thread: Diablo Pitch Document (1994) [pdf]
+Excerpt:
+My favourite story of Diablo's development (as relayed by David Brevik in the Diablo Postmortem - see below) is the part where Diablo was made real-time. He passionately championed that it should be more like Rogue or Moria purely turn-based and permadeath. That was until he implemented real-time movement in an afternoon and attacked a skeleton. This was a directive from Blizzard, and it effectively created the ARPG genre.
+
+ [link]
+
+### 28741629-8hQG7QlcLBk
+Thread: Effective Go
+Excerpt:
+But if you'd like I'd be happy to take a look at some of the problems you're encountering. I'm @alecthomas on the Gophers Slack or Twitter, feel free to DM me. No guarantees, but it sounds very unusual for an additional test to consume 15 minutes of setup.
+
+[1] [link]
+
+### 20466149-fE2KDzZaxvE
+Thread: Investigating Multi-Account IAM Issues in S3 and CloudFront
+Excerpt:
+It's worth noting that in a computing context the reliability of this heuristic is questionable relative to what it would be in medicine:
+
+ [link]
+
+### 17956775-9CO6M2HsoIA
+Thread: Ask HN: What is the best movie you have seen about AI?
+Excerpt:
+Not a movie, but I enjoyed this [0] [link] with epilogue by Stuart Russel from Berkeley.
+
+0] [link]
+
+### 16333651-bvim4rsNHkQ
+Thread: Air Force Strike Takes Out SpaceX's Floating GovSat Booster
+Excerpt:
+Take a look at all of the failed landings[1], even after they land on the barge they still go boom(or RUD if you prefer that term) when the structural integrity is lost.
+
+[1] [link]
+
+### 16319877-bvim4rsNHkQ
+Thread: SpaceX’s Falcon Heavy successfully launches
+Excerpt:
+Agree it is strange. I love their "How Not to Land an Orbital Rocket Booster" film. [link]
+
+### 38319319-bvim4rsNHkQ
+Thread: Starship Integrated Flight Test 2 at 7 Am Central Time
+Excerpt:
+Or just take a look at "How Not to Land an Orbital Rocket Booster".
+
+ [link]
+
+### 28103658-OCLaeBAkFAY
+Thread: Turning the tables on chess cheating?
+Excerpt:
+got really painful when I realized cheats that I contributed to were being used against my favorite [link] I know it sounds stupid, almost like doublethink, to watch and enjoy famous [link] who vehemently attack cheaters while cheating myself. But in Tom Scott's words [0], "everyone draws the moral line of what's acceptable just slightly below what they're actually doing". But I've nearly entirely given up with playing the game because I have found far more enriching uses of my time, than doing something that actively harms so many people.
+
+[0]: [link]
+
+### 17648179-wbSwFU6tY1c
+Thread: Take Off to 1960s Space Motels
+Excerpt:
+re are a good deal of people that formulate their world views based primarily on the news. But if you were to do that now a days you'd see nothing but negativity, divisiveness, and general nastiness. Yet in reality we live in amazing times when we're doing amazing things, but instead of focusing on that -- the media are taking the worst of the worst, and spending all of their time focusing on that to the point that the glimpses of what really is (and will) define this era are lost to the never-ending tidal wave of divisive or outrage driven news.
+
+[1] - [link]
+
+### 18051061-wbSwFU6tY1c
+Thread: SpaceX's rise can be traced to a critical launch from a Pacific isle
+Excerpt:
+projecting your own views. See people's reactions to their launches. YouTube is the home to some of the most antagonistic commentary, yet check out the comments to the Falcon Heavy Launch. If you can make YouTube look like a great group of enthusiastic, optimistic, unified aspirants - then it's safe to say they're already bringing the world like nothing before. And that's with little more than the launch of a special rocket. When SpaceX is putting people on another planet, I think we will have entered into the beginning of a new era in humanity.
+
+[1] - [link]
+
+### 47618795-wbSwFU6tY1c
+Thread: Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps (comment links 3 YouTube videos)
+Excerpt:
+> I think everyone forgot about early SpaceX product quality.
+
+This was 8 years ago and is one of the greatest stuff I've seen in space launches. The footage is so epic that it even got replicated in SciFi series! ... [link]
+
+### 21337209-wUwZZaI5u0c
+Thread: Quantum supremacy: the gloves are off
+Excerpt:
+Which does a great job building up computing from bits all the way to a adders, CPUs, and assembly language (with the historical background around it too).
+
+I think the easiest way to get an idea for Quantum Computing and what the difference is comes from watching a specific example, I thought this example of Shor's algorithm was pretty good: [link]
+
+### 19474735-UjtOGPJ0URM
+Thread: We’ve found 4000 exoplanets but almost zero are right for life
+Excerpt:
+This is great news, according to Nick Bostrom: [link]
+
+### 18251953-F8JCh0owT4w
+Thread: Repair is as important as innovation
+Excerpt:
+I thought this was quite interesting:
+
+Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly - [link]
+
+### 10794214-kixAljyfdqU
+Thread: Physicists believe they can create matter from colliding photons
+Excerpt:
+This YouTube video explains it really well. [link]
+
+### 16310416-7kVeCqQCxlk
+Thread: Branching Layouts With Ease
+Excerpt:
+You don't need to worry about UC browser if you aren't in China (that knocks several other browsers > 1% "global" share too). Opera Mini + IE11 is ~5.5% unsupported.
+
+One recommendation from the video the other day was also very good in this regard: [link]
+
+### 18884323-spUNpyF58BY
+Thread: An Interactive Introduction to Fourier Transforms
+Excerpt:
+This is really cool. I especially like the rotating circles visualization. Another video that helped me finally "get" Fouriers is the 3Blue1Brown video:
+
+ [link]
+
+### 21285468-spUNpyF58BY
+Thread: The “Windmill” Problem on the 2011 International Mathematical Olympiad [video]
+Excerpt:
+I recommend watching the "But what is the Fourier Transform? A visual introduction." [link] . Beautiful.
+
+### 24286802-spUNpyF58BY
+Thread: Discrete Cosine Transform in Video Compression – Explain Like I'm Five
+Excerpt:
+This is an explanation (from the amazing three blue one brown) of the DFT not the DCT, but this was the first thing that ever really made sense to me. It is explained by someone who really knows math incredibly well and is an amazing teacher, with amazing visuals: [link]
+
+### 34206912-spUNpyF58BY
+Thread: Ask HN: Concepts that clicked only years after you first encountered them?
+Excerpt:
+3Blue1Brown -- But what is the Fourier Transform? A visual introduction.
+
+ [link]
+
+### 38689016-spUNpyF58BY
+Thread: 3Blue1Brown Calculus Blog Series
+Excerpt:
+His visualization of the Fourier Transform[1] actually enabled me to understand the how it was happening behind the what was happening with one of the most used algorithms in computing.
+
+[1] [link]
+
+### 40371396-spUNpyF58BY
+Thread: GPT-4o
+Excerpt:
+If you've used one, you might know that you can easily talk to a smart speaker even when it is playing very loud music, it's the same idea.
+
+This video explains more quite well: [link]
+
+### 45490223-spUNpyF58BY
+Thread: Discrete Fourier Transform
+Excerpt:
+I like this 3Blue1Brown video about what he calls the almost-fuerier transform:
+
+[link]
+
+### 18765552-spUNpyF58BY
+Thread: Show HN: A minimal FFT code
+Excerpt:
+I like this one by 3Blue1Brown: [link]
+
+### 27279868-spUNpyF58BY
+Thread: Ask HN: How to get started with audio programming?
+Excerpt:
+My favorite was
+
+ [link]
+
+### 33653095-spUNpyF58BY
+Thread: What is interferometry? (comment links 2 YouTube videos)
+Excerpt:
+I recommend learning about the Fourier Transform, and then peeking at how frequency transformations are used to represent everyday images, like the Cosine Transform used in JPEG.
+
+3 blue 1 brown FFT:
+ [link]
+
+### 27220956-PorfLSr3DDI
+Thread: How to look at the stack with gdb
+Excerpt:
+Recommend watching this.
+
+ [link]
+
+### 36943964-PorfLSr3DDI
+Thread: You Only Need a Tablet for Computer Science
+Excerpt:
+thing in college, but with a Chromebook. I rented a VPS from Vultr and ssh'd in to write C and Java assignments with vim. VPS was $5/mo. Chromebooks can still write javascript code and run via the web browser, and you can actually mount a remote drive on a Chromebook (I think via sshfs?). From there you can use an electron based text editor like Atom (and I guess VSCode would work these days) and just compile and run programs via some SSH commands.
+
+I'll say anybody who wants to do the same thing with C should definitely check out GDB and its TUI mode: [link]
+
+### 30517875-PorfLSr3DDI
+Thread: Debugging with GDB
+Excerpt:
+I'd also recommend "Give me 15 minutes and I'll change your view of GDB" [1] by Greg Law at CppCon 2015. As someone who wasn't very familiar with GDB, I learned a lot from seeing it used by someone skilled. [1]: [link]
+
+### 16250796-r18Gi8lSkfM
+Thread: An animated introduction to the Fourier Transform [video]
+Excerpt:
+This one is related and (I think) quite good:
+
+ [link]
+
+### 16239531-HX8bihEe3nA
+Thread: Graham's Number Is Too Big to Tell How Big It Is
+Excerpt:
+I really don't like this kind of writing, it spending too much time gawking at the number and little explaining.
+
+I would rather recommend this video of Graham himself explaing Graham's Number.
+ [link]
+
+### 16238044-7HKbjYqqPPQ
+Thread: A practitioner’s guide to reading programming languages papers
+Excerpt:
+Related: "It's Time for a New Old Language" by Guy Steele.
+
+ [link]
+
+### 26133072-63vqob-MljQ
+Thread: Can’t Get You Out of My Head [video]
+Excerpt:
+So did I. But it's because I confused it with the "Come into my World" video, directed by Michel Gondry. One of the best music videos, in my opinion. It still would have been a little odd to see it here, though.
+
+ [link]
+
+### 24231979-FjHJ7FmV0M4
+Thread: Ask HN: What is a science fact that blew your mind when you learned it?
+Excerpt:
+This is one of my favorite PBS clips from the 80's in which Richard Feynman explains how strange the nature of light and by extension all of electromagnetic radiation.
+
+ [link]
+
+### 16467051-x1zJoU6Luss
+Thread: Peace for Triple Piano by Vi Hart [video]
+Excerpt:
+The making of video is very interesting as well
+
+ [link]
+
+### 25871852-zqE-ultsWt0
+Thread: Elon Musk to offer $100M prize for 'best' carbon capture tech
+Excerpt:
+Furthermore, rocket emissions deliver gases directly to the middle and upper atmosphere, so their pollution is more impactful pound-for-pound than aircraft emissions.
+
+And in fact, Mr. Musk wants to replace air travel with rocket travel. Check out this SpaceX video from 2017. It's not just one or two flights we're talking about. He wants to fly thousands. [link]
+
+### 33080203-YSfCdBBqNXY
+Thread: Ask HN: How to find what I am really good at?
+Excerpt:
+ADHD is quite well studied. If you're up for it, there is a 2.5h video that goes into some detail about what it is and how it affects children. I found it quite fascinating and it helped me understand some of my symptoms. (Mine is comorbid with bipolar. Yay.)
+
+ [link]
+
+### 19703424-OyfBQmvr2Hc
+Thread: Collapsing Towers of Interpreters (2018) [pdf]
+Excerpt:
+[0] [link] 
+
+[1] [link]
+
+### 48951865-OyfBQmvr2Hc
+Thread: A Road to Lisp: Which Lisp
+Excerpt:
+[1] [link] 
+
+[2] [link]
+
+### 44926058-WErjPmFulQ0
+Thread: South Park creator’s 2007 digital ad revenue sharing clause
+Excerpt:
+No matter how good my life is (and it is very good), I worried all of the time about my 6 foot 2 step son getting harassed by the police because he didn’t look like he belong in the suburbs we lived in (where I by myself made over twice the median household because I was working remotely for BigTech) that was a famous sun down town as recently as the mid 80s.
+
+Yeah I lived here until 2 years ago ( [link] ). We never had an issue. But let’s just say when I walked into the high school to pick my son up, they knew exactly who he was because he was only one of three black guys in the entire school
+
+### 16969147-NJ7M01jV058
+Thread: Hydrofluoric Acid: An Invisible Fire (1996)
+Excerpt:
+This video covers that story rather well: [link]
+
+### 30039673-NJ7M01jV058
+Thread: The Dangers of Dimethylmercury (2019)
+Excerpt:
+ChubbyEmu’s video [1] on this was quite good. (As is the rest of his channel, if this kind of stuff interests you.)
+
+[1] [link]
+
+### 16592484-qS6nTA3DUuY
+Thread: A game to map the brain
+Excerpt:
+ignoring those two annoyances, it is quite interesting, I was drawn here after watching Sebastian Seung speak [1] which I found in the rabbit hole of reading about the new 100% fatal startup...
+
+[0] [link] 
+[1] [link]
+
+### 22008025-Jph0gxzL3UI
+Thread: BeOS: The Alternate Universe's Mac OS X
+Excerpt:
+Check out this video[0], basically an Amiga with an accelerator card potentially makes for the fastest environment to run 68k-based Mac OS (System 7) ...
+
+[0] [link]
+
+### 31847600-g6iDZspbRMg
+Thread: Random Ultima Online anecdote #2 – Horses inside players (2014)
+Excerpt:
+Cryptocurrencies: Last Week Tonight with John Oliver (HBO)
+
+ [link]
+
+### 16562401-OmJ-4B-mS-Y
+Thread: Ask HN: How to self-learn math?
+Excerpt:
+Finally, mathematics is HUGE. The following will give you a bit of an idea:
+
+The Map of Mathematics [link]
+
+### 24553416-OmJ-4B-mS-Y
+Thread: Why books don't work (2019)
+Excerpt:
+> shift this burden to the medium
+
+This is beautifully expressed. Knowledge consists of connections across concepts but those connections are rarely shown explicitly in textbooks. Even wikipedia, while allowing you to traverse the connections back and forth easily, does not do a great job of giving you the bird's eye view of a subject or a field. Check out this "map" of mathematics: [link] Every subject needs a similar map.
+
+### 25923025-OmJ-4B-mS-Y
+Thread: A Map of Mathematics
+Excerpt:
+I like this poster: [link]
+
+### 17753658-RuCnZClWwpQ
+Thread: Google tracks your movements, like it or not
+Excerpt:
+> By the way, the video itself is super interesting: [link]
+
