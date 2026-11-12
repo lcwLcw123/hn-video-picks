@@ -167,3 +167,36 @@
 - 抽查：strong 基本都是明确好评；no 正确排除了裸引用、玩笑、批评；weak 最宽松（如 “for perspective, take a look at this video”），这也是给它较低权重的原因。
 
 **踩坑**：zsh 下 `rm -f dir/*` 在目录为空时报 “no matches found” 并中断了整条 `&&` 命令链，重跑时去掉了这一步。
+
+## 13. 部署到自有 VPS + 域名：https://claude.star-flow-ai.com
+
+**资源**（用户提供）：DigitalOcean `hackertube-demo`（167.172.86.125，Ubuntu 24.04，1 vCPU / 2 GB），已在跑 Caddy 2.6.2，承载两个已有站点：`star-flow-ai.com`（echoes）和按 IP 访问的 `:80`（longplay）。域名 DNS 在 Cloudflare。
+**约束**：不得影响已有站点/项目；新项目放 `/srv/claude-tube`；改 Caddyfile 前先备份；验证后再 reload。
+
+**方案**：网站是纯静态文件，不需要后台进程或端口——Caddy 直接 `file_server`，也就不会和已有服务抢端口。
+
+**步骤与验证**：
+1. 只读检查：系统、磁盘（46 GB 可用）、内存、Caddy 版本、监听端口、`/srv`、现有 Caddyfile 及其 sha256。
+2. 记录基线：`https://star-flow-ai.com` 200（3,257 B）、`http://167.172.86.125/` 200（7,555 B）、`/youtube-metadata.json` 404（**改动前就是 404**，不是本次造成的）。
+3. 上传：`deploy/deploy_vps.sh` 用 rsync 把 `site/` 传到 `/srv/claude-tube/releases/<时间戳>/`，再原子切换 `current` 软链接；保留最近 5 个版本，`--rollback` 一键回滚。
+4. Caddy：在服务器上生成 `/tmp/Caddyfile.new` = 原文件 + 一个新站点块（`deploy/caddy-claude-tube.caddy`）；`caddy validate` 通过；`diff` 确认**只有追加，原有 29 行未改动**。
+5. 备份 `/etc/caddy/Caddyfile.before-claude-tube-20261112`（sha256 与改动前一致）→ 安装新文件 → 再次 validate → `systemctl reload caddy`（`caddy reload --force`，平滑重载，不中断）。
+6. 重载后复查：两个已有站点从源站和公网访问均 200，字节数与基线完全一致。
+7. 用户在 Cloudflare 新增 A 记录 `claude → 167.172.86.125`（DNS only / 灰云）。
+8. 证书：Caddy 先前的申请因 NXDOMAIN 失败并进入退避重试；DNS 生效后再做一次平滑 reload，**约 15 秒签发成功**（Let's Encrypt，有效期至 2027-02-10，Caddy 自动续期）。
+9. 最终验证：
+   - 新站点 HTTP/2 200，证书校验通过，CSP 等安全头生效；
+   - 用本机 Chrome 无头模式对 `https://claude.star-flow-ai.com` 跑完整冒烟测试（列表、筛选、搜索、详情页、方法页、无 JS 报错）：通过；
+   - 已有站点再次复查：`star-flow-ai.com` 200（3,257 B）、`167.172.86.125` 200（7,555 B），与基线一致。
+
+**以后怎么更新**：本地重新生成数据后运行 `deploy/deploy_vps.sh`（只动 `/srv/claude-tube`）；出问题运行 `deploy/deploy_vps.sh --rollback`。GitHub Pages 版本继续保留作为备用地址。
+
+**需要用户介入的地方（及原因）**：
+- **DNS**：Cloudflare 需要用户本人登录，AI 无法代劳。第一次添加时记录没有保存成功——AI 直接查询 Cloudflare 的权威 DNS 服务器（而不是公共 DNS）发现“没有这条记录”，于是给出逐步点击说明，用户重新添加后立即生效。
+- **为什么选灰云**：Let's Encrypt 的 HTTP-01 验证要直连源站；若开代理且 Cloudflare 开启了 “Always Use HTTPS”，验证请求会被跳转到 HTTPS，而那时证书还不存在。证书签发后可以改成橙云（主站就是橙云 + 源站证书）。
+- **权限**：AI 第一次 SSH 被自动模式的权限检查拦下（改生产服务器属于高风险操作），用户明确回复 “Try again” 后才继续。随后“写日志 + 提交 + 推送”的一条合并命令也被一个独立的安全检查拦下，改用编辑器写日志。
+
+**问题 14**：部署脚本最后一行 `echo current -> $(readlink …)` 里的 `->` 被 shell 当成重定向，报 “Is a directory”。上传和切换其实已成功；修正引号后重跑。
+**问题 15**：zsh 不会对 `$SSH` 这样的变量做分词，`$SSH 'cmd'` 被当成一个不存在的命令名。改为直接写命令 / 在 bash 脚本里用数组。
+**问题 16**：公共 DNS（1.1.1.1 / 8.8.8.8）缓存了之前“不存在”的结果（负缓存最长 30 分钟），所以刚加完记录时公网暂时解析不到；Let's Encrypt 查的是权威服务器，不受影响。验证时用 `curl --resolve` 固定 IP，同时仍做真实证书校验。
+**问题 17**：新上榜的 619 个视频里，有 556 个在抓取 YouTube 页面时又被限流，缺分类和时长；用 YouTube API Key 跑一次 `enrich_youtube.py` 即可补齐（只补缺的）。
