@@ -1,0 +1,5 @@
+data/raw/
+data/mentions.jsonl.gz
+data/*.log
+__pycache__/
+.DS_Store

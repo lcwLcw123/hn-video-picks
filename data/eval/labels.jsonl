@@ -1,0 +1,300 @@
+{"i": 0, "label": "no", "note": "bare link supporting argument"}
+{"i": 1, "label": "no", "note": "job posting company info"}
+{"i": 2, "label": "strong", "note": "if you haven't watched, you should"}
+{"i": 3, "label": "no", "note": "product pointer, no endorsement of video"}
+{"i": 4, "label": "no", "note": "footnote citation"}
+{"i": 5, "label": "weak", "note": "pretty good talk about GDB"}
+{"i": 6, "label": "weak", "note": "check out presentation as resource"}
+{"i": 7, "label": "strong", "note": "brilliant technical presentation"}
+{"i": 8, "label": "weak", "note": "suggests reading video, mild"}
+{"i": 9, "label": "weak", "note": "relevant urban planner talk offered"}
+{"i": 10, "label": "no", "note": "citing opinion source"}
+{"i": 11, "label": "no", "note": "example footage"}
+{"i": 12, "label": "no", "note": "ambiguous bare link"}
+{"i": 13, "label": "weak", "note": "names well-known talk as resource"}
+{"i": 14, "label": "strong", "note": "excellent TED talk"}
+{"i": 15, "label": "strong", "note": "my favorite art installation"}
+{"i": 16, "label": "no", "note": "music performance"}
+{"i": 17, "label": "strong", "note": "documentary really opened my eyes"}
+{"i": 18, "label": "no", "note": "own personal footage"}
+{"i": 19, "label": "no", "note": "illustrative clip of dance move"}
+{"i": 20, "label": "no", "note": "reaction link, no endorsement"}
+{"i": 21, "label": "no", "note": "bare footnotes"}
+{"i": 22, "label": "no", "note": "joke/meme link"}
+{"i": 23, "label": "weak", "note": "video provides good examples"}
+{"i": 24, "label": "weak", "note": "a good video explanation"}
+{"i": 25, "label": "no", "note": "neutral pointer"}
+{"i": 26, "label": "no", "note": "footage illustrating technique"}
+{"i": 27, "label": "strong", "note": "I love these visualizations"}
+{"i": 28, "label": "weak", "note": "see this for concept explanation"}
+{"i": 29, "label": "no", "note": "self-promotion of own interviews"}
+{"i": 30, "label": "strong", "note": "recommend excellent documentary"}
+{"i": 31, "label": "no", "note": "ambiguous bare link"}
+{"i": 32, "label": "weak", "note": "Kaku explains it in video"}
+{"i": 33, "label": "weak", "note": "points to similar videos, praises style"}
+{"i": 34, "label": "weak", "note": "good intuitive examples"}
+{"i": 35, "label": "no", "note": "illustrative clip"}
+{"i": 36, "label": "strong", "note": "well worth watching"}
+{"i": 37, "label": "strong", "note": "great series of videos"}
+{"i": 38, "label": "no", "note": "showing train design footage"}
+{"i": 39, "label": "weak", "note": "link to discussion offered"}
+{"i": 40, "label": "no", "note": "own video"}
+{"i": 41, "label": "no", "note": "personal footage"}
+{"i": 42, "label": "strong", "note": "really interesting video"}
+{"i": 43, "label": "strong", "note": "another awesome speech"}
+{"i": 44, "label": "weak", "note": "seems like a good video"}
+{"i": 45, "label": "no", "note": "bare links"}
+{"i": 46, "label": "no", "note": "ambiguous bare link"}
+{"i": 47, "label": "strong", "note": "must see"}
+{"i": 48, "label": "no", "note": "examples of paid mentions"}
+{"i": 49, "label": "no", "note": "music favorite"}
+{"i": 50, "label": "weak", "note": "interesting video of effect"}
+{"i": 51, "label": "weak", "note": "my favorite, context unclear"}
+{"i": 52, "label": "no", "note": "music"}
+{"i": 53, "label": "no", "note": "music tracks"}
+{"i": 54, "label": "strong", "note": "found the documentary fascinating"}
+{"i": 55, "label": "no", "note": "joke clip"}
+{"i": 56, "label": "no", "note": "identifying referenced talk"}
+{"i": 57, "label": "weak", "note": "tutorial offered as resource"}
+{"i": 58, "label": "weak", "note": "I love the video, stunt clip"}
+{"i": 59, "label": "strong", "note": "worth a look, favorite"}
+{"i": 60, "label": "weak", "note": "see also Tom Scott video"}
+{"i": 61, "label": "no", "note": "bare link"}
+{"i": 62, "label": "no", "note": "part 2 pointer"}
+{"i": 63, "label": "strong", "note": "I also recommend these documentaries"}
+{"i": 64, "label": "no", "note": "joke list"}
+{"i": 65, "label": "strong", "note": "this great talk"}
+{"i": 66, "label": "no", "note": "bare link"}
+{"i": 67, "label": "strong", "note": "excellent CGP Grey video"}
+{"i": 68, "label": "weak", "note": "images I find beautiful"}
+{"i": 69, "label": "no", "note": "citing source for claim"}
+{"i": 70, "label": "no", "note": "light-hearted example illustration"}
+{"i": 71, "label": "no", "note": "mirror link"}
+{"i": 72, "label": "strong", "note": "you will be amazed"}
+{"i": 73, "label": "no", "note": "footnote"}
+{"i": 74, "label": "strong", "note": "I can recommend channel and series"}
+{"i": 75, "label": "no", "note": "evidence of rendering behavior"}
+{"i": 76, "label": "no", "note": "example news footage"}
+{"i": 77, "label": "no", "note": "joke"}
+{"i": 78, "label": "weak", "note": "watch author talk instead"}
+{"i": 79, "label": "no", "note": "bare footnotes"}
+{"i": 80, "label": "strong", "note": "I'd recommend the documentary"}
+{"i": 81, "label": "strong", "note": "highly recommend Sketchpad"}
+{"i": 82, "label": "strong", "note": "fantastic Radio 4 adaptation"}
+{"i": 83, "label": "no", "note": "aside link"}
+{"i": 84, "label": "no", "note": "footage reference"}
+{"i": 85, "label": "weak", "note": "reminded me of Numberphile video"}
+{"i": 86, "label": "no", "note": "download list"}
+{"i": 87, "label": "weak", "note": "CGP Grey did a video"}
+{"i": 88, "label": "no", "note": "snarky evidence"}
+{"i": 89, "label": "strong", "note": "definitely worth a watch"}
+{"i": 90, "label": "weak", "note": "check out humorous informative video"}
+{"i": 91, "label": "no", "note": "part pointers"}
+{"i": 92, "label": "strong", "note": "highly recommend video series"}
+{"i": 93, "label": "weak", "note": "very nice video on LTP"}
+{"i": 94, "label": "weak", "note": "video helped me"}
+{"i": 95, "label": "strong", "note": "funny film, definitely worth a watch"}
+{"i": 96, "label": "strong", "note": "highly recommend this channel"}
+{"i": 97, "label": "weak", "note": "a good interview"}
+{"i": 98, "label": "weak", "note": "nice video about it"}
+{"i": 99, "label": "strong", "note": "highly recommend watching"}
+{"i": 100, "label": "no", "note": "evidence for complaint"}
+{"i": 101, "label": "weak", "note": "for a really good look see interview"}
+{"i": 102, "label": "no", "note": "music"}
+{"i": 103, "label": "weak", "note": "interesting interview"}
+{"i": 104, "label": "weak", "note": "playlist offered after recommending video"}
+{"i": 105, "label": "weak", "note": "have you seen suggestion"}
+{"i": 106, "label": "strong", "note": "pretty freaking cool, check out"}
+{"i": 107, "label": "weak", "note": "favorite result link, ambiguous"}
+{"i": 108, "label": "no", "note": "talk cited as evidence"}
+{"i": 109, "label": "no", "note": "demo of gimbal capability"}
+{"i": 110, "label": "strong", "note": "my favorite one"}
+{"i": 111, "label": "strong", "note": "great video on french polish"}
+{"i": 112, "label": "weak", "note": "study Redstone resource"}
+{"i": 113, "label": "strong", "note": "do watch the talk"}
+{"i": 114, "label": "strong", "note": "all her talks worth watching"}
+{"i": 115, "label": "strong", "note": "highly recommend documentary"}
+{"i": 116, "label": "weak", "note": "found example video"}
+{"i": 117, "label": "no", "note": "bare links"}
+{"i": 118, "label": "no", "note": "sarcastic evidence"}
+{"i": 119, "label": "weak", "note": "report for those wanting more"}
+{"i": 120, "label": "no", "note": "citation source"}
+{"i": 121, "label": "strong", "note": "talks I love, recommend"}
+{"i": 122, "label": "weak", "note": "list of picks, mild"}
+{"i": 123, "label": "strong", "note": "highly recommend"}
+{"i": 124, "label": "no", "note": "bare footnotes"}
+{"i": 125, "label": "strong", "note": "best explanation I've heard"}
+{"i": 126, "label": "no", "note": "music joke"}
+{"i": 127, "label": "no", "note": "neutral pointer"}
+{"i": 128, "label": "weak", "note": "adds conference video"}
+{"i": 129, "label": "strong", "note": "one of my favorites"}
+{"i": 130, "label": "strong", "note": "fascinating talk, highly recommend"}
+{"i": 131, "label": "no", "note": "footnote reference"}
+{"i": 132, "label": "strong", "note": "most compelling interviews"}
+{"i": 133, "label": "no", "note": "evidence footage"}
+{"i": 134, "label": "no", "note": "bare links"}
+{"i": 135, "label": "strong", "note": "highly recommend debate"}
+{"i": 136, "label": "strong", "note": "great talk, well worth a watch"}
+{"i": 137, "label": "strong", "note": "highly recommend lecture"}
+{"i": 138, "label": "no", "note": "footage evidence"}
+{"i": 139, "label": "no", "note": "self-promotion job ad"}
+{"i": 140, "label": "weak", "note": "related videos listed"}
+{"i": 141, "label": "weak", "note": "interesting talk"}
+{"i": 142, "label": "strong", "note": "interesting and fun talk to watch"}
+{"i": 143, "label": "no", "note": "full lecture pointer"}
+{"i": 144, "label": "weak", "note": "check out cool implementation"}
+{"i": 145, "label": "no", "note": "examples cited"}
+{"i": 146, "label": "strong", "note": "I really like this video"}
+{"i": 147, "label": "no", "note": "evidence"}
+{"i": 148, "label": "strong", "note": "I also recommend talk"}
+{"i": 149, "label": "strong", "note": "don't miss excellent video"}
+{"i": 150, "label": "no", "note": "cited as source"}
+{"i": 151, "label": "strong", "note": "great presentation, opened my eyes"}
+{"i": 152, "label": "no", "note": "self-promotion"}
+{"i": 153, "label": "no", "note": "neutral pointer"}
+{"i": 154, "label": "strong", "note": "highly recommended"}
+{"i": 155, "label": "strong", "note": "also very good talk"}
+{"i": 156, "label": "no", "note": "footnote reference"}
+{"i": 157, "label": "strong", "note": "amazing Guy Steele talk"}
+{"i": 158, "label": "no", "note": "reminds me of, neutral"}
+{"i": 159, "label": "no", "note": "footnote reference"}
+{"i": 160, "label": "weak", "note": "historical context video offered"}
+{"i": 161, "label": "no", "note": "bare link"}
+{"i": 162, "label": "strong", "note": "excellent talks"}
+{"i": 163, "label": "strong", "note": "really excellent talk"}
+{"i": 164, "label": "strong", "note": "one of my favorite talks"}
+{"i": 165, "label": "weak", "note": "great rant, used as argument"}
+{"i": 166, "label": "no", "note": "example evidence"}
+{"i": 167, "label": "no", "note": "bare footnotes"}
+{"i": 168, "label": "no", "note": "self-promotion demo"}
+{"i": 169, "label": "weak", "note": "video on related topic offered"}
+{"i": 170, "label": "no", "note": "evidence"}
+{"i": 171, "label": "no", "note": "news footage of event"}
+{"i": 172, "label": "weak", "note": "check out for more detail"}
+{"i": 173, "label": "no", "note": "joke"}
+{"i": 174, "label": "strong", "note": "great help in understanding"}
+{"i": 175, "label": "strong", "note": "found it illuminating"}
+{"i": 176, "label": "no", "note": "joke"}
+{"i": 177, "label": "no", "note": "funny unrelated clip"}
+{"i": 178, "label": "no", "note": "bare links"}
+{"i": 179, "label": "weak", "note": "suggests watching breathing exercise"}
+{"i": 180, "label": "no", "note": "movie clip joke"}
+{"i": 181, "label": "weak", "note": "more detail for interested"}
+{"i": 182, "label": "weak", "note": "famous lecture referenced"}
+{"i": 183, "label": "no", "note": "footnote with disclosure"}
+{"i": 184, "label": "no", "note": "example clip"}
+{"i": 185, "label": "strong", "note": "explains very well, helped a ton"}
+{"i": 186, "label": "strong", "note": "awesome commencement speech"}
+{"i": 187, "label": "no", "note": "bare footnotes"}
+{"i": 188, "label": "no", "note": "reference to proverb"}
+{"i": 189, "label": "weak", "note": "great example of effect"}
+{"i": 190, "label": "no", "note": "shows what software looks like"}
+{"i": 191, "label": "no", "note": "timestamp pointer"}
+{"i": 192, "label": "strong", "note": "informative, well worth the watch"}
+{"i": 193, "label": "weak", "note": "listed learning resources"}
+{"i": 194, "label": "weak", "note": "footnote near high book recommendation"}
+{"i": 195, "label": "no", "note": "pop culture clip"}
+{"i": 196, "label": "no", "note": "footage reference"}
+{"i": 197, "label": "weak", "note": "3Blue1Brown reference for concept"}
+{"i": 198, "label": "strong", "note": "great presentation"}
+{"i": 199, "label": "no", "note": "own sample run"}
+{"i": 200, "label": "no", "note": "news clips"}
+{"i": 201, "label": "no", "note": "outdated video illustrates idea"}
+{"i": 202, "label": "strong", "note": "really good video"}
+{"i": 203, "label": "no", "note": "bare title link"}
+{"i": 204, "label": "no", "note": "product links"}
+{"i": 205, "label": "no", "note": "self-promotion"}
+{"i": 206, "label": "weak", "note": "take a look at Minix work"}
+{"i": 207, "label": "no", "note": "music"}
+{"i": 208, "label": "no", "note": "citation source"}
+{"i": 209, "label": "no", "note": "footnote"}
+{"i": 210, "label": "no", "note": "criticism of demo"}
+{"i": 211, "label": "no", "note": "question"}
+{"i": 212, "label": "strong", "note": "very interesting, I'd recommend"}
+{"i": 213, "label": "weak", "note": "interesting talk on that"}
+{"i": 214, "label": "weak", "note": "talk summarizes ideas well"}
+{"i": 215, "label": "no", "note": "bare links"}
+{"i": 216, "label": "no", "note": "event footage"}
+{"i": 217, "label": "no", "note": "timestamp to moment"}
+{"i": 218, "label": "strong", "note": "fascinating talk"}
+{"i": 219, "label": "no", "note": "job ad self-promotion"}
+{"i": 220, "label": "no", "note": "neutral pointer to segment"}
+{"i": 221, "label": "no", "note": "joke"}
+{"i": 222, "label": "no", "note": "likely own music"}
+{"i": 223, "label": "weak", "note": "detailed lecture to learn more"}
+{"i": 224, "label": "no", "note": "meme reference"}
+{"i": 225, "label": "strong", "note": "highly recommend documentary"}
+{"i": 226, "label": "no", "note": "music performance"}
+{"i": 227, "label": "weak", "note": "game showcase"}
+{"i": 228, "label": "strong", "note": "highly recommend these links"}
+{"i": 229, "label": "weak", "note": "well-made 5-minute introduction"}
+{"i": 230, "label": "strong", "note": "fascinating documentary trailer"}
+{"i": 231, "label": "strong", "note": "links worth watching"}
+{"i": 232, "label": "weak", "note": "theory of operation video offered"}
+{"i": 233, "label": "no", "note": "criticism of talk"}
+{"i": 234, "label": "no", "note": "footnote evidence"}
+{"i": 235, "label": "no", "note": "film clip reference"}
+{"i": 236, "label": "no", "note": "fun clip reminder"}
+{"i": 237, "label": "strong", "note": "highly recommend talk"}
+{"i": 238, "label": "weak", "note": "life-advice resources with takeaways"}
+{"i": 239, "label": "no", "note": "example evidence"}
+{"i": 240, "label": "strong", "note": "highly recommend movie"}
+{"i": 241, "label": "no", "note": "music, comments example"}
+{"i": 242, "label": "strong", "note": "great talk by bwk"}
+{"i": 243, "label": "weak", "note": "fun explanatory TED videos"}
+{"i": 244, "label": "no", "note": "reference"}
+{"i": 245, "label": "no", "note": "job ad"}
+{"i": 246, "label": "no", "note": "comparison pointer"}
+{"i": 247, "label": "strong", "note": "great interview"}
+{"i": 248, "label": "no", "note": "own video"}
+{"i": 249, "label": "weak", "note": "video on subject, mild caveat"}
+{"i": 250, "label": "strong", "note": "absolutely blew me away"}
+{"i": 251, "label": "no", "note": "evidence clip"}
+{"i": 252, "label": "no", "note": "self-promotion"}
+{"i": 253, "label": "weak", "note": "documentary on cool things"}
+{"i": 254, "label": "weak", "note": "interesting interview"}
+{"i": 255, "label": "weak", "note": "interesting introduction"}
+{"i": 256, "label": "weak", "note": "video on Agincourt, creator praised"}
+{"i": 257, "label": "no", "note": "cited as source"}
+{"i": 258, "label": "no", "note": "joke"}
+{"i": 259, "label": "strong", "note": "favorite, listen and appreciate"}
+{"i": 260, "label": "no", "note": "technical reference"}
+{"i": 261, "label": "no", "note": "footnotes"}
+{"i": 262, "label": "strong", "note": "scene never fails to move me"}
+{"i": 263, "label": "strong", "note": "brilliant TED talk"}
+{"i": 264, "label": "strong", "note": "great documentary, well worth a watch"}
+{"i": 265, "label": "no", "note": "bare footnotes"}
+{"i": 266, "label": "no", "note": "reference link"}
+{"i": 267, "label": "weak", "note": "entertaining talk cited"}
+{"i": 268, "label": "strong", "note": "cannot recommend it enough"}
+{"i": 269, "label": "no", "note": "criticism evidence"}
+{"i": 270, "label": "no", "note": "music tune"}
+{"i": 271, "label": "strong", "note": "great cooking tutorials"}
+{"i": 272, "label": "weak", "note": "more in-depth video"}
+{"i": 273, "label": "weak", "note": "interesting interview, gives hope"}
+{"i": 274, "label": "strong", "note": "definitely check out, impactful"}
+{"i": 275, "label": "weak", "note": "review clip for recommended documentary"}
+{"i": 276, "label": "no", "note": "answering factual question"}
+{"i": 277, "label": "no", "note": "bare link"}
+{"i": 278, "label": "weak", "note": "tutorial by her offered"}
+{"i": 279, "label": "weak", "note": "favorite entertaining moment"}
+{"i": 280, "label": "strong", "note": "very approachable explanation"}
+{"i": 281, "label": "weak", "note": "full film on YouTube, loves style"}
+{"i": 282, "label": "weak", "note": "a good resource"}
+{"i": 283, "label": "strong", "note": "highly recommended viewing"}
+{"i": 284, "label": "no", "note": "bare link"}
+{"i": 285, "label": "no", "note": "footnote"}
+{"i": 286, "label": "weak", "note": "favorite comedy scene"}
+{"i": 287, "label": "weak", "note": "check out talk"}
+{"i": 288, "label": "weak", "note": "documentary version of enjoyed book"}
+{"i": 289, "label": "no", "note": "self-promotion tutorial"}
+{"i": 290, "label": "no", "note": "own video"}
+{"i": 291, "label": "no", "note": "joke aside"}
+{"i": 292, "label": "no", "note": "music"}
+{"i": 293, "label": "no", "note": "direct link pointer"}
+{"i": 294, "label": "strong", "note": "simplest explanation I've seen"}
+{"i": 295, "label": "strong", "note": "favorite channel did video"}
+{"i": 296, "label": "no", "note": "footnote"}
+{"i": 297, "label": "no", "note": "evidence of poor voice control"}
+{"i": 298, "label": "no", "note": "cited as evidence"}
+{"i": 299, "label": "no", "note": "music"}

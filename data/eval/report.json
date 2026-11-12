@@ -1,0 +1,33 @@
+{
+ "n": 150,
+ "precision": 0.644,
+ "precision_strong": 0.451,
+ "recall_est": 0.107,
+ "recall_strong_est": 0.41,
+ "sample_precision_unweighted": 0.852,
+ "split": "held-out test (odd items)",
+ "strata": {
+  "P": {
+   "n": 69,
+   "pred_pos": 44,
+   "pred_pos_true": 40,
+   "pred_pos_strong": 28,
+   "true": 48
+  },
+  "N": {
+   "n": 59,
+   "pred_pos": 1,
+   "pred_pos_true": 0,
+   "pred_pos_strong": 0,
+   "true": 18
+  },
+  "B": {
+   "n": 22,
+   "pred_pos": 9,
+   "pred_pos_true": 6,
+   "pred_pos_strong": 4,
+   "true": 13
+  }
+ },
+ "n_total_labeled": 300
+}
