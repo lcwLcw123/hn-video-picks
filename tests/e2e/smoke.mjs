@@ -16,21 +16,27 @@ for (const vp of [{ name: "desktop", width: 1280, height: 900 }, { name: "mobile
   page.on("requestfailed", (r) => !/ytimg\.com|youtube/.test(r.url()) && errors.push("requestfailed " + r.url()));
   page.on("response", (r) => r.status() >= 400 && !/ytimg\.com|youtube|\/v\/zzzzzzzzzzz/.test(r.url()) && errors.push(`${r.status()} ${r.url()}`));
   await page.goto(base, { waitUntil: "networkidle" });
-  const n = await page.locator(".card").count();
-  if (n < 10) fail(`${vp.name}: only ${n} cards`);
+  const n = await page.locator(".gcard").count();  // grid is the default view
+  if (n < 10) fail(`${vp.name}: only ${n} grid cards`);
   await page.screenshot({ path: `${out}/list-${vp.name}.png` });
   if (vp.name === "desktop") {
+    // grid <-> list toggle, remembered in the URL
+    await page.locator('.seg button[data-view="list"]').click();
+    if (!/view=list/.test(page.url())) fail("view=list not in URL");
+    if ((await page.locator(".card").count()) < 10) fail("list view did not render");
+    await page.locator('.seg button[data-view="grid"]').click();
+    if ((await page.locator(".gcard").count()) < 10) fail("grid view did not come back");
     // filter by topic chip, search, sort; state must go into the URL (shareable)
     await page.locator(".chip").nth(1).click();
     if (!/topic=/.test(page.url())) fail("topic not in URL");
     await page.selectOption("#sort", "span");
     if (!/sort=span/.test(page.url())) fail("sort not in URL");
     await page.goto(base + "#/?q=hickey", { waitUntil: "networkidle" });
-    const titles = await page.locator(".card h2").allTextContents();
+    const titles = await page.locator(".gcard h3").allTextContents();
     if (!titles.some((t) => /hickey/i.test(t))) fail("search hickey: " + titles.slice(0, 3));
     console.log("search hickey ->", titles.slice(0, 3));
     // detail page
-    await page.locator(".card h2 a").first().click();
+    await page.locator(".gcard h3 a").first().click();
     await page.waitForSelector(".recs li");
     const recs = await page.locator(".recs li").count();
     const facts = await page.locator(".facts li b").first().textContent();

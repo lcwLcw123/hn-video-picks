@@ -2,7 +2,8 @@
 /* HN 片单 — static client. Data: data/index.json (list), data/v/<id>.json (detail), data/meta.json */
 
 const $app = document.getElementById("app");
-const state = { index: null, meta: null, shown: 40 };
+const state = { index: null, meta: null, shown: 48 };
+const PAGE = 48; // divisible by 2, 3 and 4 so full grid rows
 const FIRST_YEAR = 2007, LAST_YEAR = new Date().getFullYear();
 
 const SORTS = {
@@ -69,7 +70,7 @@ function route() {
   const m = path.match(/^\/v\/([A-Za-z0-9_-]{11})/);
   if (m) return renderDetail(m[1]);
   if (path.startsWith("/about")) return renderAbout();
-  state.shown = 40;
+  state.shown = PAGE;
   renderList(params);
 }
 
@@ -94,8 +95,15 @@ function filtered(params) {
   return { list, q, topic, len, min, all, sort, durable };
 }
 
+function currentView(params) {
+  const v = params.get("view") || localStorage.getItem("hnvp.view") || "grid";
+  return v === "list" ? "list" : "grid";
+}
+
 function renderList(params) {
   const f = filtered(params);
+  const view = currentView(params);
+  document.body.classList.toggle("wide", view === "grid");
   const base = state.index.filter((v) => f.all || (v.a && v.k === "knowledge"));
   const topicCounts = {};
   base.forEach((v) => v.tp.forEach((t) => (topicCounts[t] = (topicCounts[t] || 0) + 1)));
@@ -123,8 +131,14 @@ function renderList(params) {
       ${topics.map(([t, n]) => `<button class="chip ${t === f.topic ? "on" : ""}" data-topic="${esc(t)}">${esc(t)} <small>${n}</small></button>`).join("")}
     </div>
   </section>
-  <p class="count">${f.list.length.toLocaleString()} 个视频</p>
-  <ol class="list" id="list"></ol>
+  <div class="count-row">
+    <p class="count">${f.list.length.toLocaleString()} 个视频</p>
+    <div class="seg" role="group" aria-label="显示方式">
+      <button data-view="grid" class="${view === "grid" ? "on" : ""}" aria-pressed="${view === "grid"}">▦ 网格</button>
+      <button data-view="list" class="${view === "list" ? "on" : ""}" aria-pressed="${view === "list"}">☰ 列表</button>
+    </div>
+  </div>
+  <ol class="${view}" id="list"></ol>
   <div class="more-wrap"><button id="more" class="more">显示更多</button></div>`;
 
   const update = (k, v) => {
@@ -152,13 +166,17 @@ function renderList(params) {
   document.getElementById("all").onchange = (e) => update("all", e.target.checked);
   document.getElementById("durable").onchange = (e) => update("durable", e.target.checked);
   $app.querySelectorAll(".chip").forEach((b) => (b.onclick = () => update("topic", b.dataset.topic)));
+  $app.querySelectorAll(".seg button").forEach((b) => (b.onclick = () => {
+    localStorage.setItem("hnvp.view", b.dataset.view);
+    update("view", b.dataset.view === "grid" ? "" : b.dataset.view);
+  }));
 
   const draw = () => {
     const ol = document.getElementById("list");
-    ol.innerHTML = f.list.slice(0, state.shown).map(cardHtml).join("");
+    ol.innerHTML = f.list.slice(0, state.shown).map(view === "grid" ? gridCardHtml : cardHtml).join("");
     document.getElementById("more").style.display = f.list.length > state.shown ? "" : "none";
   };
-  document.getElementById("more").onclick = () => { state.shown += 40; draw(); };
+  document.getElementById("more").onclick = () => { state.shown += PAGE; draw(); };
   draw();
 }
 
@@ -167,6 +185,29 @@ function yearStrip(years) {
   let cells = "";
   for (let y = FIRST_YEAR; y <= LAST_YEAR; y++) cells += `<i class="${set.has(y) ? "on" : ""}" title="${y}${set.has(y) ? " 有人推荐" : ""}"></i>`;
   return `<span class="years" aria-label="被推荐的年份：${years.join("、")}">${cells}</span>`;
+}
+
+function fmtClock(d) {
+  if (!d) return "";
+  const h = Math.floor(d / 3600), m = Math.floor((d % 3600) / 60), s = d % 60;
+  const mm = h ? String(m).padStart(2, "0") : String(m);
+  return (h ? h + ":" : "") + mm + ":" + String(s).padStart(2, "0");
+}
+
+function gridCardHtml(v, i) {
+  const title = v.t || "（视频已不可用）";
+  const y0 = v.y[0], y1 = last(v);
+  return `<li class="gcard ${v.a ? "" : "gone"}">
+    <a class="gthumb" href="#/v/${v.id}" tabindex="-1" aria-hidden="true">
+      <img loading="lazy" src="https://i.ytimg.com/vi/${v.id}/mqdefault.jpg" alt="">
+      <span class="rank">${i + 1}</span>
+      ${v.d ? `<span class="dur">${fmtClock(v.d)}</span>` : ""}
+    </a>
+    <h3><a href="#/v/${v.id}" title="${esc(title)}">${esc(title)}</a></h3>
+    <div class="gsub">${esc(v.c || "")}</div>
+    <div class="gsig"><span class="big"><b>${v.r}</b> 人推荐</span><span>${y0 === y1 ? y0 : `${y0}–${y1}`}</span>${yearStrip(v.y)}</div>
+    ${v.q ? `<a class="gq" href="#/v/${v.id}" title="看全部 ${v.r} 条推荐理由"><span class="qx">“${quoteHtml(v.q.x).replace(/<\/?p>/g, " ")}”</span><span class="qa">— ${esc(v.q.u)}, ${v.q.yr}</span></a>` : ""}
+  </li>`;
 }
 
 function cardHtml(v) {
@@ -195,6 +236,7 @@ function cardHtml(v) {
 /* ---------- detail ---------- */
 
 async function renderDetail(id) {
+  document.body.classList.remove("wide");
   window.scrollTo(0, 0);
   $app.innerHTML = `<p class="loading">载入中…</p>`;
   let v;
@@ -269,6 +311,7 @@ async function renderDetail(id) {
 /* ---------- about ---------- */
 
 function renderAbout() {
+  document.body.classList.remove("wide");
   window.scrollTo(0, 0);
   const m = state.meta, ev = m.eval;
   $app.innerHTML = `<article class="about">
