@@ -345,11 +345,11 @@ function renderAbout() {
   ${m.llm_eval ? (() => {
     const t = m.llm_eval.test;
     return `<h3>AI 复判：把漏掉的温和推荐找回来</h3>
-    <p>规则打分接近阈值、但没过线的评论（规则分数 ≥0.2，且视频已有至少 1 位规则认定的推荐者，共 ${(m.llm_judged || 0).toLocaleString()} 条），交给 Claude 子代理（Sonnet，7 个并行，按与盲标完全相同的标准）逐条再读一遍。
+    <p>规则打分接近阈值、但没过线的评论（规则分数 ≥0.2，且视频已有至少 1 位规则认定的推荐者，共 ${(m.llm_judged || 0).toLocaleString()} 条），交给 Claude 子代理（Claude Opus 5.5，7 个并行，按与盲标完全相同的标准）逐条再读一遍。
     由此新增 <b>${(m.llm_added || 0).toLocaleString()}</b> 条推荐，详情页里带 <span class="ai">AI 复判</span> 标记并附理由。</p>
     <p>在同一份盲标测试集（${t.n} 条）上：规则单独的精确率 ${pct(t.rules_precision)}、样本内召回 ${pct(t.rules_recall_in_sample)}；
     规则 + AI 复判后精确率 ${pct(t.combined_precision)}、样本内召回 <b>${pct(t.combined_recall_in_sample)}</b>。
-    AI 单独与盲标结果的三分类一致率 ${pct(t.exact_agreement)}——但要打个折扣：盲标者本身也是一个 AI（Claude 子代理），两者可能有相同的盲点。</p>
+    AI 单独与盲标结果的三分类一致率 ${pct(t.exact_agreement)}——但要打个折扣：盲标者和复判者其实是同一个模型（Claude Opus 5.5），可能有相同的盲点，需要人工抽检。</p>
     <p>为什么不让 AI 判全部 29 万条？成本和必要性：大多数提及（新闻片段、出处、玩笑）规则就能确定地排除，只有规则“拿不准”的那一小段才值得多看一眼；而且只复判了“已有至少 1 位规则认定的推荐者”的视频，因为只有它们能因为多一票而进入片单或提升排名。</p>`;
   })() : ""}
 

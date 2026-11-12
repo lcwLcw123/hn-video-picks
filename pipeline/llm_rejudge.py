@@ -185,7 +185,7 @@ def report_eval(result_path):
     print("note: 'recall_in_sample' is within the stratified sample (borderline-heavy), not population recall.")
 
 
-def merge_subagents(label="subagent:claude-sonnet"):
+def merge_subagents(label="subagent:claude-opus-5.5"):
     """Alternative to the API batch: judgments written by Claude Code subagents into
     data/llm/chunks/out_*.jsonl (same criteria, see SYSTEM). Converts them to the files
     build_dataset.py and report_eval() read."""

@@ -19,6 +19,6 @@
   "combined_precision": 0.875,
   "combined_recall_in_sample": 0.709
  },
- "model": "subagent:claude-sonnet",
+ "model": "subagent:claude-opus-5.5",
  "borderline_p": 0.2
 }

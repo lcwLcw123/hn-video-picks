@@ -61,11 +61,11 @@
    "combined_precision": 0.875,
    "combined_recall_in_sample": 0.709
   },
-  "model": "subagent:claude-sonnet",
+  "model": "subagent:claude-opus-5.5",
   "borderline_p": 0.2
  },
  "listed": 3003,
  "listed_available": 2851,
- "exported_at": 1794455238,
+ "exported_at": 1794470524,
  "repo": "lcwLcw123/hn-video-picks"
 }
