@@ -166,3 +166,14 @@ class YouTubeApiTests(unittest.TestCase):
         self.assertEqual(cache["_ahvzDzKdB0"]["category"], "Science & Technology")
         self.assertEqual(cache["_ahvzDzKdB0"]["duration"], 3211)
         self.assertFalse(cache["zzzzzzzzzzz"]["available"])
+
+
+class KindTests(unittest.TestCase):
+    def test_category_overridden_by_title_or_recommenders(self):
+        from export_site import kind_of
+        self.assertEqual(kind_of({"category": "Gaming", "title": "Juice it or lose it - a talk by Martin Jonasson"}), "knowledge")
+        self.assertEqual(kind_of({"category": "Music", "title": "ZFS: The Last Word in File Systems"}), "knowledge")
+        self.assertEqual(kind_of({"category": "Comedy", "title": "The Expert (Short Comedy Sketch)"}), "other")
+        recs = [{"pos": ["讲得清楚"]}, {"pos": ["知识型内容"]}, {"pos": []}]
+        self.assertEqual(kind_of({"category": "Entertainment", "title": "Golden Balls"}, recs), "knowledge")
+        self.assertEqual(kind_of({"category": "Education", "title": "anything"}), "knowledge")

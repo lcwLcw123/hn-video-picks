@@ -13,24 +13,30 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(ROOT, "site", "data")
 
-NON_KNOWLEDGE = {"Music", "Comedy", "Gaming", "Pets & Animals"}
-KNOWLEDGE_TITLE = re.compile(r"\b(talk|lecture|keynote|conference|documentary|explained|explain|how|why|history|interview|course|lesson|introduction|intro|science|theory|engineering|programming|math|physics|tutorial|seminar|panel|debate|demo)\b", re.I)
+NON_KNOWLEDGE = {"Music", "Comedy", "Gaming", "Pets & Animals", "Entertainment", "Sports"}
+# HN recommendation cues that say "this is something you learn from"
+LEARNING_CUES = {"知识型内容", "讲得清楚"}
+KNOWLEDGE_TITLE = re.compile(r"\b(talk|lecture|keynote|conference|documentary|explained|explains?|how|why|what|history|story|interview|course|lesson|introduction|intro|science|theory|engineering|programming|math|physics|tutorial|seminar|panel|debate|demo|war stories|economics|problem|analysis|essay|gdc|defcon|def con|sxsw|ted|tedx|ccc|c3|postmortem|post-mortem|deep dive|behind|making of|busted|truth|stats|statistics|machine learning|file ?systems?|software|computer|hardware|algorithm|the hard parts)\b|\b\d{4}\b.*\b(talk|conf)", re.I)
 
 
 MUSIC_HINT = re.compile(r"official (music )?video|\(official|lyrics?\b|\bfeat\.|\bft\.|remix|full album|music video|\(audio\)|official audio|\blive at\b|\bcover\)|\bunplugged\b|\bconcerto\b|\bsymphony\b|\bsonata\b|trailer\b|\bfunny\b|\bprank|\bmeme\b", re.I)
 MUSIC_CHANNEL = re.compile(r"vevo$| - topic$|records$|\bmusic$", re.I)
 
 
-def kind_of(meta):
+def kind_of(meta, recs=()):
+    """'knowledge' unless the video looks like music/comedy/gaming/entertainment for its own sake.
+    Uploader categories are unreliable (many great talks are filed under Gaming/Entertainment),
+    so non-knowledge categories are overridden by the title or by what HN recommenders said."""
     cat = meta.get("category")
+    learn = sum(1 for m in recs if LEARNING_CUES & set(m.get("pos", [])))
+    if cat in NON_KNOWLEDGE:
+        if KNOWLEDGE_TITLE.search(meta.get("title") or "") or learn >= 2 or (recs and learn / len(recs) >= 0.4):
+            return "knowledge"
+        return "other"
     if not cat:  # no watch-page data: fall back to title/channel heuristics
         if MUSIC_HINT.search(meta.get("title") or "") or MUSIC_CHANNEL.search(meta.get("channel") or ""):
             return "other"
         return "knowledge"
-    if cat in NON_KNOWLEDGE:
-        return "other"
-    if cat == "Entertainment" and not KNOWLEDGE_TITLE.search(meta.get("title") or ""):
-        return "other"
     return "knowledge"
 
 
@@ -87,7 +93,7 @@ def main():
             "d": meta.get("duration"), "pub": (meta.get("published") or "")[:4] or None,
             "s": st["score"], "r": st["recommenders"], "th": st["threads"], "y": st["years"],
             "tp": st["topics"], "ci": st["citations"],
-            "a": 1 if avail else 0, "k": kind_of(meta) if avail else "other",
+            "a": 1 if avail else 0, "k": kind_of(meta, quotes) if avail else "other",
             "q": {"x": best_sentence(top["quote"]), "u": top["author"], "yr": top["year"], "id": top["cid"]} if top else None,
         }
         index.append(item)
